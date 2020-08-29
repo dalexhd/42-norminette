@@ -1,0 +1,85 @@
+{
+	"name": "42-norminette",
+	"description": "This extension will inject norm errors inside your code.",
+	"author": "aborboll (aborboll@student.42.fr)",
+	"license": "MIT",
+	"version": "1.0.0",
+	"icon": "https://i.imgur.com/AV2cRVX.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dalexhd/42-norminette"
+	},
+	"publisher": "dalexhd",
+	"categories": [],
+	"keywords": [
+		"multi-root ready",
+		"lerna multirepo"
+	],
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"activationEvents": [
+		"onLanguage:plaintext"
+	],
+	"main": "./packages/client/out/extension",
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "Configuration",
+			"properties": {
+				"42norminette.command": {
+					"scope": "resource",
+					"type": "string",
+					"default": "norminette",
+					"description": "Norminette command or path"
+				},
+				"42norminette.maxErrors": {
+					"scope": "resource",
+					"type": "number",
+					"default": 1,
+					"pattern": "[0-9]+",
+					"enum": [
+						1,
+						-1,
+						2
+					],
+					"description": "Control how many errors will be displayed",
+					"markdownEnumDescriptions": [
+						"Default",
+						"Don't stress me! It's my ☕ time",
+						"I'm motivated! Let's play with norminette 😺"
+					]
+				},
+				"42norminette.trace.server": {
+					"scope": "window",
+					"type": "string",
+					"enum": [
+						"off",
+						"messages",
+						"verbose"
+					],
+					"default": "off",
+					"description": "Traces the communication between VS Code and the language server."
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -b",
+		"watch": "tsc -b -w"
+	},
+	"devDependencies": {
+		"@types/mocha": "^8.0.3",
+		"@types/node": "^12.12.0",
+		"@typescript-eslint/parser": "^2.3.0",
+		"eslint": "^6.4.0",
+		"lerna": "^3.22.1",
+		"mocha": "^8.1.1",
+		"typescript": "^3.9.4"
+	},
+	"extensionPack": [
+		"usernamehw.errorlens",
+		"igorsbitnev.error-gutters"
+	]
+}

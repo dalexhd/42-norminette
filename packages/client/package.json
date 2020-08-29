@@ -1,0 +1,22 @@
+{
+	"name": "42-norminette",
+	"description": "A norminette checker",
+	"author": "aborboll (aborboll@student.42.fr)",
+	"license": "MIT",
+	"version": "1.0.0",
+	"publisher": "dalexhd",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-extension-samples"
+	},
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"dependencies": {
+		"vscode-languageclient": "^6.1.3"
+	},
+	"devDependencies": {
+		"@types/vscode": "1.43.0",
+		"vscode-test": "^1.3.0"
+	}
+}
