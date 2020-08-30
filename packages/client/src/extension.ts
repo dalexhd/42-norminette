@@ -1,74 +1,93 @@
-/* --------------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See License.txt in the project root for license information.
- * ------------------------------------------------------------------------------------------ */
-
-import * as path from 'path';
-import { workspace, ExtensionContext, window } from 'vscode';
+import * as path from "path";
+import {
+  workspace,
+  ExtensionContext,
+  window,
+  languages,
+  commands,
+  Uri
+} from "vscode";
+import errorGutter from "./error-gutters";
 
 import {
-	LanguageClient,
-	LanguageClientOptions,
-	ServerOptions,
-	TransportKind,
-} from 'vscode-languageclient';
+  LanguageClient,
+  LanguageClientOptions,
+  ServerOptions,
+  TransportKind,
+} from "vscode-languageclient";
 
 let client: LanguageClient;
 
 export function activate(context: ExtensionContext) {
-	// The server is implemented in node
-	let serverModule = context.asAbsolutePath(
-		path.join('packages', 'server', 'out', 'server.js')
-	);
-	// The debug options for the server
-	// --inspect=6009: runs the server in Node's Inspector mode so VS Code can attach to the server for debugging
-	let debugOptions = { execArgv: ['--nolazy', '--inspect=6009'] };
+  // The server is implemented in node
+  let serverModule = context.asAbsolutePath(
+    path.join("packages", "server", "out", "server.js")
+  );
 
-	// If the extension is launched in debug mode then the debug server options are used
-	// Otherwise the run options are used
-	let serverOptions: ServerOptions = {
-		run: { module: serverModule, transport: TransportKind.ipc },
-		debug: {
-			module: serverModule,
-			transport: TransportKind.ipc,
-			options: debugOptions,
-		},
-	};
+  context.subscriptions.push(
+    languages.onDidChangeDiagnostics(({uris}) => {
+      errorGutter;
+    }),
+    commands.registerCommand("42-norminette.searchOnStackOverflow", (text) => {
+		const languageId =  window.activeTextEditor.document.languageId;
+		const url = `https://stackoverflow.com/search?q=[${languageId}]${text}`;
+      commands.executeCommand(
+        "vscode.open",
+        Uri.parse(
+			url
+        )
+      );
+    })
+  );
+  // The debug options for the server
+  // --inspect=6009: runs the server in Node's Inspector mode so VS Code can attach to the server for debugging
+  let debugOptions = { execArgv: ["--nolazy", "--inspect=6009"] };
 
-	// Options to control the language client
-	let clientOptions: LanguageClientOptions = {
-		// Register the server for plain text documents,
-		documentSelector: [
-			{ scheme: 'file', language: 'c' },
-			{ scheme: 'file', language: 'cpp' },
-		],
-		synchronize: {
-			// Notify the server about file changes to '.clientrc files contained in the workspace
-			fileEvents: workspace.createFileSystemWatcher('**/.clientrc'),
-		},
-	};
+  // If the extension is launched in debug mode then the debug server options are used
+  // Otherwise the run options are used
+  let serverOptions: ServerOptions = {
+    run: { module: serverModule, transport: TransportKind.ipc },
+    debug: {
+      module: serverModule,
+      transport: TransportKind.ipc,
+      options: debugOptions,
+    },
+  };
 
-	// Create the language client and start the client.
-	client = new LanguageClient(
-		'42norminette',
-		'42 Norminette',
-		serverOptions,
-		clientOptions
-	);
+  // Options to control the language client
+  let clientOptions: LanguageClientOptions = {
+    // Register the server for plain text documents,
+    documentSelector: [
+      { scheme: "file", language: "c" },
+      { scheme: "file", language: "cpp" },
+    ],
+    synchronize: {
+      // Notify the server about file changes to '.clientrc files contained in the workspace
+      fileEvents: workspace.createFileSystemWatcher("**/.clientrc"),
+    },
+  };
 
-	// Start the client. This will also launch the server
-	client.start();
+  // Create the language client and start the client.
+  client = new LanguageClient(
+    "42norminette",
+    "42 Norminette",
+    serverOptions,
+    clientOptions
+  );
 
-	client.onReady().then(() => {
-		client.onNotification('error', (error: string) => {
-			window.showErrorMessage(error);
-		});
-	});
+  // Start the client. This will also launch the server
+  client.start();
+
+  client.onReady().then(() => {
+    client.onNotification("error", (error: string) => {
+      window.showErrorMessage(error);
+    });
+  });
 }
 
 export function deactivate(): Thenable<void> | undefined {
-	if (!client) {
-		return undefined;
-	}
-	return client.stop();
+  if (!client) {
+    return undefined;
+  }
+  return client.stop();
 }
