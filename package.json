@@ -34,14 +34,14 @@
 					"default": "norminette",
 					"description": "Norminette command or path"
 				},
-				"42norminette.maxErrors": {
+				"42norminette.showErrors": {
 					"scope": "resource",
-					"type": "number",
-					"default": -1,
+					"type": "string",
+					"default": "all",
 					"pattern": "[0-9]+",
 					"enum": [
-						-1,
-						1
+						"all",
+						"one"
 					],
 					"description": "Control how many errors will be displayed",
 					"markdownEnumDescriptions": [

@@ -112,13 +112,13 @@ connection.onInitialized(() => {
 // The example settings
 interface Settings {
   command: string;
-  maxErrors: number;
+  showErrors: string;
 }
 
 // The global settings, used when the `workspace/configuration` request is not supported by the client.
 // Please note that this is not the case when using this server with the client provided in this example
 // but could happen with other clients.
-const defaultSettings: Settings = { command: "norminette", maxErrors: -1 };
+const defaultSettings: Settings = { command: "norminette", showErrors: "all" };
 let globalSettings: Settings = defaultSettings;
 
 // Cache the settings of all open documents
@@ -168,7 +168,7 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
   let problems = 0;
   let diagnostics: Diagnostic[] = [];
   const path = uriToFilePath(textDocument.uri) as string;
-  const { maxErrors, command } = await getDocumentSettings(path);
+  const { showErrors, command } = await getDocumentSettings(path);
   runNorminetteProccess(`${command} ${path}`).then((errors) => {
     console.log(errors);
     errors.forEach(({ errorText, line, col, fullText }) => {
@@ -211,7 +211,7 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
       		},
       	];
       }
-      if (problems < maxErrors) {
+      if ((problems === 1 && showErrors === "one") || showErrors === "all") {
         problems++;
         diagnostics.push(diagnostic);
       }
