@@ -3,7 +3,7 @@
 	"description": "A norminette checker",
 	"author": "aborboll (aborboll@student.42.fr)",
 	"license": "MIT",
-	"version": "3.0.0",
+	"version": "3.1.0",
 	"publisher": "dalexhd",
 	"repository": {
 		"type": "git",
