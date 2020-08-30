@@ -1,7 +1,7 @@
 {
 	"name": "42-norminette-server",
 	"description": "42 Norminette server.",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"author": "aborboll (aborboll@student.42.fr)",
 	"license": "MIT",
 	"engines": {
@@ -15,9 +15,9 @@
 		"@types/lodash": "^4.14.108"
 	},
 	"dependencies": {
+		"lodash": "^4.17.20",
 		"vscode-languageserver": "^6.1.1",
-		"vscode-languageserver-textdocument": "^1.0.1",
-		"lodash": "^4.17.20"
+		"vscode-languageserver-textdocument": "^1.0.1"
 	},
 	"scripts": {}
 }
