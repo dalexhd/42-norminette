@@ -3,7 +3,7 @@
 	"description": "This extension will inject norm errors inside your code.",
 	"author": "aborboll (aborboll@student.42.fr)",
 	"license": "MIT",
-	"version": "3.1.0",
+	"version": "3.1.1",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
