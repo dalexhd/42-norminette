@@ -1,7 +1,7 @@
 {
 	"name": "42-norminette-server",
 	"description": "42 Norminette server.",
-	"version": "3.1.0",
+	"version": "3.1.1",
 	"author": "aborboll (aborboll@student.42.fr)",
 	"license": "MIT",
 	"engines": {
