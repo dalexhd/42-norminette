@@ -9,7 +9,7 @@ This extension will inject norm errors inside your code.
 ```ts
 {
   "42norminette.command": string, // Default: 'norminette'
-  "42norminette.maxErrors": number // Default: -1,
+  "42norminette.maxErrors": string // Default: 'all',
 }
 ```
 
