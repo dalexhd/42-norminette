@@ -60,12 +60,8 @@ connection.onInitialize((params: InitializeParams) => {
 
   const result: InitializeResult = {
     capabilities: {
-      textDocumentSync: TextDocumentSyncKind.Incremental,
-      // Tell the client that this server supports code completion.
-      completionProvider: {
-        resolveProvider: true,
-      },
-    },
+      textDocumentSync: TextDocumentSyncKind.Incremental
+    }
   };
   if (hasWorkspaceFolderCapability) {
     result.capabilities.workspace = {
@@ -171,7 +167,7 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
   const { showErrors, command } = await getDocumentSettings(path);
   runNorminetteProccess(`${command} ${path}`).then((errors) => {
     console.log(errors);
-    errors.forEach(({ errorText, line, col, fullText }) => {
+    errors.forEach(({ errorText, line, col }) => {
       const range = col
         ? {
             start: {
