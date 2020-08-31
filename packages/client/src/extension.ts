@@ -26,7 +26,7 @@ export function activate(context: ExtensionContext) {
 
   context.subscriptions.push(
     languages.onDidChangeDiagnostics(({uris}) => {
-      errorGutter;
+      errorGutter();
     }),
     commands.registerCommand("42-norminette.searchOnStackOverflow", (text) => {
 		const languageId =  window.activeTextEditor.document.languageId;
