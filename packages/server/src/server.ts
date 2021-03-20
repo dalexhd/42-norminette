@@ -13,13 +13,13 @@ import {
   CodeAction,
   CodeActionKind,
   CodeActionParams,
-} from "vscode-languageserver";
+} from 'vscode-languageserver/node';
 
 import { upperFirst, trimStart } from "lodash";
 
 import { TextDocument } from "vscode-languageserver-textdocument";
 
-import { uriToFilePath } from "vscode-languageserver/lib/files";
+import { URI } from "vscode-uri";
 
 import { runNorminetteProccess, quickfix } from "./utils";
 
@@ -60,8 +60,8 @@ connection.onInitialize((params: InitializeParams) => {
 
   const result: InitializeResult = {
     capabilities: {
-      textDocumentSync: TextDocumentSyncKind.Incremental
-    }
+      textDocumentSync: TextDocumentSyncKind.Incremental,
+    },
   };
   if (hasWorkspaceFolderCapability) {
     result.capabilities.workspace = {
@@ -163,60 +163,62 @@ documents.onDidChangeContent((change) => {
 async function validateTextDocument(textDocument: TextDocument): Promise<void> {
   let problems = 0;
   let diagnostics: Diagnostic[] = [];
-  const path = uriToFilePath(textDocument.uri) as string;
+  const path = URI.parse(textDocument.uri).path;
   const { showErrors, command } = await getDocumentSettings(path);
-  runNorminetteProccess(`${command} ${path}`).then((errors) => {
-    console.log(errors);
-    errors.forEach(({ errorText, line, col }) => {
-      const range = col
-        ? {
-            start: {
-              line,
-              character: col,
+  runNorminetteProccess(`${command} ${path}`)
+    .then((errors) => {
+      errors.forEach(({ line, col, id, error}) => {
+        const range = col
+          ? {
+              start: {
+                line,
+                character: col,
+              },
+              end: {
+                line,
+                character: col,
+              },
+            }
+          : {
+              start: {
+                line,
+                character: 0,
+              },
+              end: {
+                line,
+                character: 0,
+              },
+            };
+        let diagnostic: Diagnostic = {
+          severity: DiagnosticSeverity.Error,
+          range,
+          message: upperFirst(trimStart(error)),
+          code: id,
+          source: "Norminette 🐱",
+        };
+        //TODO: Add norminette error descriptions and display them at 'relatedInformation
+        if (hasDiagnosticRelatedInformationCapability) {
+          diagnostic.relatedInformation = [
+            {
+              location: {
+                uri: textDocument.uri,
+                range: Object.assign({}, diagnostic.range),
+              },
+              message: upperFirst(trimStart(error)),
             },
-            end: {
-              line,
-              character: col,
-            },
-          }
-        : {
-            start: {
-              line,
-              character: 0,
-            },
-            end: {
-              line,
-              character: 0,
-            },
-          };
-      let diagnostic: Diagnostic = {
-        severity: DiagnosticSeverity.Error,
-        range,
-        message: upperFirst(trimStart(errorText)),
-        source: "Norminette 🐱",
-      };
-      //TODO: Add norminette error descriptions and display them at 'relatedInformation
-      if (hasDiagnosticRelatedInformationCapability) {
-      	diagnostic.relatedInformation = [
-      		{
-      			location: {
-      				uri: textDocument.uri,
-      				range: Object.assign({}, diagnostic.range),
-      			},
-      			message: upperFirst(trimStart(errorText)),
-      		},
-      	];
-      }
-      if ((problems === 1 && showErrors === "one") || showErrors === "all") {
-        problems++;
-        diagnostics.push(diagnostic);
-      }
+          ];
+        }
+        if ((problems === 1 && showErrors === "one") || showErrors === "all") {
+          problems++;
+          diagnostics.push(diagnostic);
+        }
+      });
+      // Send the computed diagnostics to VSCode.
+      connection.sendDiagnostics({ uri: textDocument.uri, diagnostics });
+    })
+    .catch((err) => {
+      connection.sendNotification("error", err?.message);
     });
-    // Send the computed diagnostics to VSCode.
-    connection.sendDiagnostics({ uri: textDocument.uri, diagnostics });
-  }).catch((err) => {
-	connection.sendNotification("error", err?.message);
-  })
 }
 
 connection.onDidChangeWatchedFiles((_change) => {

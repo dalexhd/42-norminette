@@ -2,14 +2,17 @@
 
 This extension will inject norm errors inside your code.
 
+NOTE: In order to have the compatibility with V2 Norminette, you need to use a version > 4.0.0
+
 ![demo image](demo.gif)
 
 ## Configuration
 
 ```ts
 {
-  "42norminette.command": string, // Default: 'norminette'
-  "42norminette.maxErrors": string // Default: 'all',
+  "42norminette.command": string, // Default: 'norminette'.
+  "42norminette.showErrors": string // Default: 'all'. ['all', 'one']
+  "42norminette.trace.server": string, // Default: 'messages'. ['messages', 'off', 'verbose']
 }
 ```
 

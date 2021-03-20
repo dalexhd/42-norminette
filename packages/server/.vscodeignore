@@ -1,9 +1,4 @@
-node_modules/**
-!node_modules/vscode-jsonrpc/**
-!node_modules/vscode/**
-!node_modules/vscode-languageclient/**
-!node_modules/vscode-languageserver-protocol/**
-!node_modules/vscode-languageserver-types/**
-!node_modules/semver/**
+node_modules/
+out/
 tsconfig.json
 tsconfig.base.json

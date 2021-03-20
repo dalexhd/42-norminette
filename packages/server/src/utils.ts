@@ -2,51 +2,71 @@ import {
   CodeAction,
   CodeActionKind,
   CodeActionParams,
-  TextDocument,
   DiagnosticSeverity,
   Command
 } from "vscode-languageserver";
+
+import {
+  TextDocument,
+} from "vscode-languageserver-textdocument";
 
 import { exec } from "child_process";
 
 interface NormResult {
   line: number;
   col: number;
-  fullText: string;
-  errorText: string;
+  id: string;
+  error: string;
 }
-
-const normDecrypt = function (normLine: string): object {
-  let line, col;
-  const array = normLine.split(":")[0].match(/[0-9]+/g);
-  if (array) [line, col] = array.map((e) => +e);
-  const ob: NormResult = {
-    line: (line as number) < 0 ? 0 : (line as number) - 1 || 0,
-    col: col as number,
-    fullText: normLine,
-    errorText: normLine.split(":")[1],
-  };
-  return ob;
-};
 
 export const runNorminetteProccess = async function (
   command: string
 ): Promise<Array<NormResult>> {
   return new Promise((resolve, reject) => {
-    const line: string[] = [];
+    const errors: NormResult[] = [];
     const normDecrypted: any[] = [];
-    const proc = exec(command, function (error, stdout, stderr) {
-      if (error) return reject(error.message);
-      stdout.split("\n").forEach((text: string, index: number) => {
-        if (index == 0) return;
-        line.push(text);
-      });
+    const proc = exec(command, function (error, stdout) {
+      console.log(command, stdout);
+      if (error && !stdout.includes("KO!")) return reject(error.message);
+      const regex = /^[\t]{1}([A-Z]+(?:_[A-Z]+)*)[\s]+\(line:[\s]+([0-9]+),[\s]+col:[\s]+([0-9]+)\):[\t]{1}(.*)/gm;
+      let m;
+      while ((m = regex.exec(stdout)) !== null) {
+          // This is necessary to avoid infinite loops with zero-width matches
+          if (m.index === regex.lastIndex) {
+              regex.lastIndex++;
+          }
+          let errObject: NormResult = {
+            line: 0,
+            col: 0,
+            id: '',
+            error: '',
+          };
+          // The result can be accessed through the `m`-variable.
+          m.forEach((match, groupIndex) => {
+            switch (groupIndex) {
+              case 1:
+                errObject.id = match;
+                break;
+              case 2:
+                errObject.line = parseInt(match) - 1;
+                break;
+              case 3:
+                errObject.col = parseInt(match);
+                break;
+              case 4:
+                errObject.error = match;
+                break;
+              default:
+                break;
+            }
+          });
+          errors.push(errObject);
+      }
     });
-    proc.on("close", (exitCode) => {
+    proc.on("close", () => {
       try {
-        line.pop();
-        line.forEach((e) => {
-          normDecrypted.push(normDecrypt(e));
+        errors.forEach((errorObj) => {
+          normDecrypted.push(errorObj);
         });
         resolve(normDecrypted);
       } catch (error) {
