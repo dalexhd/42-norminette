@@ -13,7 +13,7 @@ import {
   CodeAction,
   CodeActionKind,
   CodeActionParams,
-} from 'vscode-languageserver/node';
+} from "vscode-languageserver/node";
 
 import { upperFirst, trimStart } from "lodash";
 
@@ -167,28 +167,17 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
   const { showErrors, command } = await getDocumentSettings(path);
   runNorminetteProccess(`${command} ${path}`)
     .then((errors) => {
-      errors.forEach(({ line, col, id, error}) => {
-        const range = col
-          ? {
-              start: {
-                line,
-                character: col,
-              },
-              end: {
-                line,
-                character: col,
-              },
-            }
-          : {
-              start: {
-                line,
-                character: 0,
-              },
-              end: {
-                line,
-                character: 0,
-              },
-            };
+      errors.forEach(({ line, col, id, error }, index) => {
+        const range = {
+          start: {
+            line,
+            character: col,
+          },
+          end: {
+            line,
+            character: col,
+          },
+        };
         let diagnostic: Diagnostic = {
           severity: DiagnosticSeverity.Error,
           range,
@@ -208,8 +197,7 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
             },
           ];
         }
-        if ((problems === 1 && showErrors === "one") || showErrors === "all") {
-          problems++;
+        if ((index === 0 && showErrors === "one") || showErrors === "all") {
           diagnostics.push(diagnostic);
         }
       });

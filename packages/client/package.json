@@ -3,7 +3,7 @@
 	"description": "A norminette checker",
 	"author": "aborboll (aborboll@student.42.fr)",
 	"license": "MIT",
-	"version": "4.0.1",
+	"version": "4.1.0",
 	"publisher": "dalexhd",
 	"repository": {
 		"type": "git",
@@ -16,7 +16,7 @@
 		"vscode-languageclient": "^7.0.0"
 	},
 	"devDependencies": {
-		"@types/vscode": "1.39.0",
+		"@types/vscode": "^1.52.0",
 		"vscode-test": "^1.3.0"
 	}
 }

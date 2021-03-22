@@ -26,7 +26,6 @@ export const runNorminetteProccess = async function (
     const errors: NormResult[] = [];
     const normDecrypted: any[] = [];
     const proc = exec(command, function (error, stdout) {
-      console.log(command, stdout);
       if (error && !stdout.includes("KO!")) return reject(error.message);
       const regex = /^[\t]{1}([A-Z]+(?:_[A-Z]+)*)[\s]+\(line:[\s]+([0-9]+),[\s]+col:[\s]+([0-9]+)\):[\t]{1}(.*)/gm;
       let m;

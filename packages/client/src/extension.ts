@@ -5,7 +5,7 @@ import {
   window,
   languages,
   commands,
-  Uri
+  Uri,
 } from "vscode";
 import errorGutter from "./error-gutters";
 
@@ -14,7 +14,7 @@ import {
   LanguageClientOptions,
   ServerOptions,
   TransportKind,
-} from "vscode-languageclient";
+} from "vscode-languageclient/node";
 
 let client: LanguageClient;
 
@@ -25,18 +25,13 @@ export function activate(context: ExtensionContext) {
   );
 
   context.subscriptions.push(
-    languages.onDidChangeDiagnostics(({uris}) => {
+    languages.onDidChangeDiagnostics(() => {
       errorGutter();
     }),
     commands.registerCommand("42-norminette.searchOnStackOverflow", (text) => {
-		const languageId =  window.activeTextEditor.document.languageId;
-		const url = `https://stackoverflow.com/search?q=[${languageId}]${text}`;
-      commands.executeCommand(
-        "vscode.open",
-        Uri.parse(
-			url
-        )
-      );
+      const languageId = window.activeTextEditor.document.languageId;
+      const url = `https://stackoverflow.com/search?q=[${languageId}]${text}`;
+      commands.executeCommand("vscode.open", Uri.parse(url));
     })
   );
   // The debug options for the server
