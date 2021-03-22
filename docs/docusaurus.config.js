@@ -33,15 +33,15 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Getting Started',
-              to: 'docs/',
-            },
-          ],
-        },
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Getting Started',
+        //       to: 'docs/',
+        //     },
+        //   ],
+        // },
         {
           title: 'Community',
           items: [
