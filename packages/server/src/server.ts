@@ -15,7 +15,11 @@ import {
   CodeActionParams,
 } from "vscode-languageserver/node";
 
-import { upperFirst, trimStart } from "lodash";
+import docsErrors from "./errors";
+
+import { upperFirst, trimStart, kebabCase } from "lodash";
+
+import config from "./config";
 
 import { TextDocument } from "vscode-languageserver-textdocument";
 
@@ -183,7 +187,12 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
           range,
           message: upperFirst(trimStart(error)),
           code: id,
-          source: "Norminette 🐱",
+          source: "norminette",
+          codeDescription: {
+            href: docsErrors.includes(id)
+              ? config.docsUrl + "/docs/errors/" + kebabCase(id)
+              : "https://github.com/dalexhd/42-norminette/compare",
+          },
         };
         //TODO: Add norminette error descriptions and display them at 'relatedInformation
         if (hasDiagnosticRelatedInformationCapability) {

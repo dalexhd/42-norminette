@@ -32,6 +32,9 @@ export function activate(context: ExtensionContext) {
       const languageId = window.activeTextEditor.document.languageId;
       const url = `https://stackoverflow.com/search?q=[${languageId}]${text}`;
       commands.executeCommand("vscode.open", Uri.parse(url));
+    }),
+    commands.registerCommand("42-norminette.searchOnNorminette", (url) => {
+      commands.executeCommand("vscode.open", url);
     })
   );
   // The debug options for the server

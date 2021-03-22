@@ -12,6 +12,8 @@ import {
 
 import { exec } from "child_process";
 
+import { kebabCase } from "lodash";
+
 interface NormResult {
   line: number;
   col: number;
@@ -93,6 +95,12 @@ export const quickfix = function (
       } else {
         actions = diag.message;
       }
+      codeActions.push({
+        title: `Search error at norminette docs: ${actions}`,
+        kind: CodeActionKind.QuickFix,
+        diagnostics: [diag],
+        command: Command.create("View norminette", "42-norminette.searchOnNorminette", diag.codeDescription?.href)
+      });
       codeActions.push({
         title: `Search error at StackOverflow: ${actions}`,
         kind: CodeActionKind.QuickFix,
