@@ -4,7 +4,7 @@
 	"description": "This extension will inject norm errors inside your code. NormV2 friendly!",
 	"author": "aborboll (aborboll@student.42.fr)",
 	"license": "MIT",
-	"version": "5.0.0",
+	"version": "5.0.1",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
