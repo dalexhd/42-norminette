@@ -16,6 +16,10 @@ import {
   TransportKind,
 } from "vscode-languageclient/node";
 
+// import { norminetteErrorsView } from './norminetteErrorsView';
+import { norminetteStatusBar } from './norminetteStatusBar';
+
+
 let client: LanguageClient;
 
 export function activate(context: ExtensionContext) {
@@ -27,16 +31,20 @@ export function activate(context: ExtensionContext) {
   context.subscriptions.push(
     languages.onDidChangeDiagnostics(() => {
       errorGutter();
+        // Test View
+	    // new norminetteErrorsView(context); // Disable for now
     }),
     commands.registerCommand("42-norminette.searchOnStackOverflow", (text) => {
       const languageId = window.activeTextEditor.document.languageId;
       const url = `https://stackoverflow.com/search?q=[${languageId}]${text}`;
       commands.executeCommand("vscode.open", Uri.parse(url));
     }),
+    
     commands.registerCommand("42-norminette.searchOnNorminette", (url) => {
       commands.executeCommand("vscode.open", url);
     })
   );
+  new norminetteStatusBar(context);
   // The debug options for the server
   // --inspect=6009: runs the server in Node's Inspector mode so VS Code can attach to the server for debugging
   let debugOptions = { execArgv: ["--nolazy", "--inspect=6009"] };
