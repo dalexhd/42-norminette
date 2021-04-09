@@ -28,8 +28,8 @@ export const runNorminetteProccess = async function (
     const errors: NormResult[] = [];
     const normDecrypted: any[] = [];
     const proc = exec(command, function (error, stdout) {
-      if (error && !stdout.includes("KO!")) return reject(error.message);
-      const regex = /^[\t]{1}([A-Z]+(?:_[A-Z]+)*)[\s]+\(line:[\s]+([0-9]+),[\s]+col:[\s]+([0-9]+)\):[\t]{1}(.*)/gm;
+      if (error && !stdout.includes("Error!")) return reject(error.message);
+      const regex = /^Error:[\s]{1}([A-Z]+(?:_[A-Z]+)*)[\s]+\(line:[\s]+([0-9]+),[\s]+col:[\s]+([0-9]+)\):[\t]{1}(.*)/gm;
       let m;
       while ((m = regex.exec(stdout)) !== null) {
           // This is necessary to avoid infinite loops with zero-width matches
