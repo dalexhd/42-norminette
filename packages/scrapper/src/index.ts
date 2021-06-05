@@ -171,7 +171,7 @@ if (typeof process.env.USERNAME === 'undefined' || typeof process.env.PASSWORD =
 ${changelog}`;
 	if (deleted.length > 0 || added.length > 0 || modified.length > 0) {
 		await fs.writeFileSync(path.resolve(__dirname, '../CHANGELOG.md'), changelog);
-		await fs.writeFileSync('data/projects.json', JSON.stringify(data, undefined,));
+		await fs.writeFileSync('data/projects.json', JSON.stringify(data, undefined, 1));
 		// @ts-ignore
 		await exec('lerna version ' + data.version.substring(1) + ' --no-git-tag-version --no-push --yes');
 		// @ts-ignore
