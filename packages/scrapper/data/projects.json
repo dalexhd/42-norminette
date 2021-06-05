@@ -1,1 +1,4013 @@
-{"version":"v5.2.0","projects":[{"objectID":"ft_transcendence","name":"ft_transcendence","href":"https://projects.intra.42.fr/projects/ft_transcendence","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23535/en.subject.pdf","name":"subject.pdf"}],"objectives":["Specs"],"skills":["Web","Group & interpersonal","Rigor"],"stats":["Finished 34 times in 11 teams (3 retries)","30 students currently doing this project (0 retries) in 10 teams","0 teams waiting for evaluation"]},{"objectID":"42run","name":"42run","href":"https://projects.intra.42.fr/projects/42cursus-42run","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9356/en.subject.pdf","name":"subject"},{"link":"/uploads/document/document/1449/play_me.example","name":"1387 play_me 0"},{"link":"/uploads/document/document/1450/resources.tgz","name":"1387 resources 0"}],"objectives":["OpenGL","GamePlay fonctionnel"],"skills":["Adaptation & creativity","Graphics","Algorithms & AI"],"stats":["Finished 30 times (0 retries)","3 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"42sh","name":"42sh","href":"https://projects.intra.42.fr/projects/42cursus-42sh","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19778/en.subject.pdf","name":"subject.pdf"}],"objectives":["Process handling","CLI handling","Advanced Parsing","Filesystem"],"skills":["Organization","Group & interpersonal","Unix"],"stats":["Finished 663 times in 661 teams (0 retries)","2 students currently doing this project (0 retries) in 2 teams","0 teams waiting for evaluation"]},{"objectID":"abstract-vm","name":"abstract-vm","href":"https://projects.intra.42.fr/projects/42cursus-abstract-vm","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9691/en.subject.pdf","name":"subject.pdf"}],"objectives":["C++","Virtual machine","Manipulation of abstract data"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 432 times (28 retries)","56 students currently doing this project (0 retries)","4 teams waiting for evaluation"]},{"objectID":"avaj-launcher","name":"avaj-launcher","href":"https://projects.intra.42.fr/projects/42cursus-avaj-launcher","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/16891/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2600/avaj_uml.png","name":"avaj_uml.png"},{"link":"/uploads/document/document/2601/scenario.txt","name":"scenario.txt"}],"objectives":["Java","UML","Object-Oriented Programming","Imperative Programming"],"skills":["Adaptation & creativity","Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 257 times (23 retries)","105 students currently doing this project (0 retries)","5 teams waiting for evaluation"]},{"objectID":"bomberman","name":"bomberman","href":"https://projects.intra.42.fr/projects/42cursus-bomberman","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19616/en.subject.pdf","name":"subject.pdf"}],"objectives":["C++","Rigueur et soucis de finition","Travail en equipe","OpenGL","Specs"],"skills":["Graphics","Group & interpersonal","Rigor","Object-oriented programming"],"stats":["Finished 89 times in 86 teams (1 retries)","1 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"boot2root","name":"boot2root","href":"https://projects.intra.42.fr/projects/42cursus-boot2root","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19199/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2832/BornToSecHackMe-v1.1.iso","name":"BornToSecHackMe-v1.1.iso"}],"objectives":["Unix","Security","Permissions","Hacking Skills","Security"],"skills":["Adaptation & creativity","Security","Unix"],"stats":["Finished 627 times in 522 teams (58 retries)","28 students currently doing this project (0 retries) in 20 teams","3 teams waiting for evaluation"]},{"objectID":"Born2beroot","name":"Born2beroot","href":"https://projects.intra.42.fr/projects/born2beroot","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24264/en.subject.pdf","name":"subject.pdf"}],"objectives":["Rigor","Network & system administration"],"skills":[],"stats":["Finished 17 times (6 retries)","52 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"camagru","name":"camagru","href":"https://projects.intra.42.fr/projects/42cursus-camagru","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19609/en.subject.pdf","name":"subject.pdf"}],"objectives":["User handling","permissions handling","mailing","security /data validation","Fullstack"],"skills":["Security","DB & Data","Web"],"stats":["Finished 355 times (23 retries)","39 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"cloud-1","name":"cloud-1","href":"https://projects.intra.42.fr/projects/42cursus-cloud-1","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/21425/en.subject.pdf","name":"subject.pdf"},{"link":"https://cdn.intra.42.fr/pdf/pdf/21427/en.readme.pdf","name":"readme.pdf"}],"objectives":["Cloud","System administration"],"skills":["DB & Data","Web","Network & system administration"],"stats":["Finished 64 times in 59 teams (10 retries)","21 students currently doing this project (0 retries) in 14 teams","3 teams waiting for evaluation"]},{"objectID":"computorv1","name":"computorv1","href":"https://projects.intra.42.fr/projects/42cursus-computorv1","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13223/en.subject.pdf","name":"subject.pdf"}],"objectives":["Mathematics Basics","Polynomial Equations","Maths","Algorithm implementation"],"skills":["Algorithms & AI","Rigor"],"stats":["Finished 1008 times (193 retries)","202 students currently doing this project (0 retries)","19 teams waiting for evaluation"]},{"objectID":"computorv2","name":"computorv2","href":"https://projects.intra.42.fr/projects/42cursus-computorv2","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13228/en.subject.pdf","name":"subject.pdf"}],"objectives":["Mathematical Basics","Polynomial equations","Imaginary number calculations","Matrix calculations","Mathematical functions","Maths","Algorithm implementation"],"skills":["Organization","Algorithms & AI","Rigor"],"stats":["Finished 100 times (23 retries)","30 students currently doing this project (0 retries)","4 teams waiting for evaluation"]},{"objectID":"corewar","name":"corewar","href":"https://projects.intra.42.fr/projects/42cursus-corewar","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19205/en.subject.pdf","name":"subject.pdf"},{"link":"https://cdn.intra.42.fr/pdf/pdf/19207/en.resources.pdf","name":"resources.pdf"},{"link":"https://cdn.intra.42.fr/pdf/pdf/19209/en.warning.pdf","name":"en.warning.pdf"},{"link":"/uploads/document/document/2835/vm_champs.tar","name":"vm_champs.tar"},{"link":"/uploads/document/document/2836/op.c","name":"op.c"},{"link":"/uploads/document/document/2837/op.h","name":"op.h"}],"objectives":["Compilation","Simplistic virtual machine","Simplistic assembly type language","Visual rendering"],"skills":["Adaptation & creativity","Organization","Group & interpersonal","Algorithms & AI"],"stats":["Finished 1615 times in 1613 teams (2 retries)","4 students currently doing this project (0 retries) in 4 teams","0 teams waiting for evaluation"]},{"objectID":"CPP Module 00","name":"CPP Module 00","href":"https://projects.intra.42.fr/projects/cpp-module-00","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23571/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3532/Account.class.hpp","name":"Account.class.hpp"},{"link":"/uploads/document/document/3533/19920104_091532.log","name":"19920104_091532.log"},{"link":"/uploads/document/document/3534/tests.cpp","name":"tests.cpp"}],"objectives":["Imperative programming","Object-oriented programming","Rigor","OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 52 times (17 retries)","7 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"CPP Module 01","name":"CPP Module 01","href":"https://projects.intra.42.fr/projects/cpp-module-01","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/21918/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 42 times (8 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"CPP Module 02","name":"CPP Module 02","href":"https://projects.intra.42.fr/projects/cpp-module-02","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/21913/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 34 times (0 retries)","1 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"CPP Module 03","name":"CPP Module 03","href":"https://projects.intra.42.fr/projects/cpp-module-03","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/22422/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 39 times (8 retries)","3 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"CPP Module 04","name":"CPP Module 04","href":"https://projects.intra.42.fr/projects/cpp-module-04","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23552/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 33 times (8 retries)","5 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"CPP Module 05","name":"CPP Module 05","href":"https://projects.intra.42.fr/projects/cpp-module-05","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/22533/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 31 times (6 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"CPP Module 06","name":"CPP Module 06","href":"https://projects.intra.42.fr/projects/cpp-module-06","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20184/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 27 times (2 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"CPP Module 07","name":"CPP Module 07","href":"https://projects.intra.42.fr/projects/cpp-module-07","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23544/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 27 times (3 retries)","2 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"CPP Module 08","name":"CPP Module 08","href":"https://projects.intra.42.fr/projects/cpp-module-08","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23548/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 25 times (3 retries)","3 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"cub3d","name":"cub3d","href":"https://projects.intra.42.fr/projects/cub3d","attachments":[{"link":"","name":"subject.pdf"},{"link":"/uploads/document/document/3730/minilibx_opengl.tgz","name":"minilibx_opengl.tgz"},{"link":"/uploads/document/document/3731/minilibx_mms_20200219_beta.tgz","name":"minilibx_mms_20200219_beta.tgz"}],"objectives":["Applicative"],"skills":["Graphics","Imperative programming","Algorithms & AI","Rigor"],"stats":["Finished 270 times in 270 teams (109 retries)","45 students currently doing this project (0 retries) in 45 teams","0 teams waiting for evaluation"]},{"objectID":"darkly","name":"darkly","href":"https://projects.intra.42.fr/projects/42cursus-darkly","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19001/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2808/Darkly_i386.iso","name":"Darkly_i386.iso"}],"objectives":["Failles de sécurité en web","OWASP","SQL/JS","Backend","Security"],"skills":["Adaptation & creativity","Security","Web"],"stats":["Finished 77 times in 67 teams (10 retries)","20 students currently doing this project (0 retries) in 16 teams","4 teams waiting for evaluation"]},{"objectID":"death","name":"death","href":"https://projects.intra.42.fr/projects/42cursus-death","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13230/en.subject.pdf","name":"subject.pdf"}],"objectives":["Binary patches","x64 Architecture","Low-Level skills","Metamorphism","Security"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 19 times in 17 teams (3 retries)","2 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"drivers-and-interrupts","name":"drivers-and-interrupts","href":"https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13283/en.subject.pdf","name":"subject.pdf"}],"objectives":["kernel","Kernel and Low-Level"],"skills":["Rigor","Unix"],"stats":["Finished 17 times (3 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"dr-quine","name":"dr-quine","href":"https://projects.intra.42.fr/projects/42cursus-dr-quine","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15594/en.subject.pdf","name":"subject.pdf"}],"objectives":["self-replication","Recursion","Security"],"skills":["Imperative programming","Algorithms & AI","Unix"],"stats":["Finished 119 times (24 retries)","23 students currently doing this project (0 retries)","4 teams waiting for evaluation"]},{"objectID":"dslr","name":"dslr","href":"https://projects.intra.42.fr/projects/42cursus-dslr","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19501/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2923/datasets.tgz","name":"datasets.tgz"}],"objectives":["Data Science","Statistics","Visualization","Logistic Regression","Machine Learning"],"skills":["DB & Data","Algorithms & AI"],"stats":["Finished 233 times in 208 teams (31 retries)","36 students currently doing this project (0 retries) in 32 teams","6 teams waiting for evaluation"]},{"objectID":"durex","name":"durex","href":"https://projects.intra.42.fr/projects/42cursus-durex","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13240/en.subject.pdf","name":"subject.pdf"}],"objectives":["Security","Daemon","Trojan","Network programming","Security"],"skills":["Imperative programming","Unix","Network & system administration"],"stats":["Finished 64 times in 62 teams (3 retries)","8 students currently doing this project (0 retries) in 8 teams","0 teams waiting for evaluation"]},{"objectID":"Electronics-Old","name":"Electronics-Old","href":"https://projects.intra.42.fr/projects/electronics-old","attachments":[],"objectives":[],"skills":[],"stats":["Finished 377 times in 375 teams (1 retries)","2 students currently doing this project (0 retries) in 2 teams","0 teams waiting for evaluation"]},{"objectID":"Exam Rank 02","name":"Exam Rank 02","href":"https://projects.intra.42.fr/projects/exam-rank-02","attachments":[],"objectives":[],"skills":[],"stats":["Finished 7675 times","413 students currently doing this project","5 teams waiting for evaluation"]},{"objectID":"Exam Rank 03","name":"Exam Rank 03","href":"https://projects.intra.42.fr/projects/exam-rank-03","attachments":[],"objectives":[],"skills":[],"stats":["Finished 717 times","112 students currently doing this project","0 teams waiting for evaluation"]},{"objectID":"Exam Rank 04","name":"Exam Rank 04","href":"https://projects.intra.42.fr/projects/exam-rank-04","attachments":[],"objectives":[],"skills":[],"stats":["Finished 1079 times","164 students currently doing this project","0 teams waiting for evaluation"]},{"objectID":"Exam Rank 05","name":"Exam Rank 05","href":"https://projects.intra.42.fr/projects/exam-rank-05","attachments":[],"objectives":[],"skills":[],"stats":["Finished 786 times","83 students currently doing this project","0 teams waiting for evaluation"]},{"objectID":"Exam Rank 06","name":"Exam Rank 06","href":"https://projects.intra.42.fr/projects/exam-rank-06","attachments":[],"objectives":[],"skills":[],"stats":["Finished 221 times","50 students currently doing this project","0 teams waiting for evaluation"]},{"objectID":"expert-system","name":"expert-system","href":"https://projects.intra.42.fr/projects/42cursus-expert-system","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13349/en.subject.pdf","name":"subject.pdf"}],"objectives":["Graph algorithms","Optimization","Algorithm implementation"],"skills":["Group & interpersonal","Algorithms & AI","Rigor"],"stats":["Finished 549 times in 520 teams (47 retries)","24 students currently doing this project (0 retries) in 17 teams","1 teams waiting for evaluation"]},{"objectID":"famine","name":"famine","href":"https://projects.intra.42.fr/projects/42cursus-famine","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13234/en.subject.pdf","name":"subject.pdf"}],"objectives":["Binary patches","x64 Architecture","Low-Level skills","Security"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 57 times in 54 teams (9 retries)","3 students currently doing this project (0 retries) in 3 teams","0 teams waiting for evaluation"]},{"objectID":"FdF","name":"FdF","href":"https://projects.intra.42.fr/projects/42cursus-fdf","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24134/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3704/maps.zip","name":"maps.zip"},{"link":"/uploads/document/document/3705/minilibx_mms_20191025_beta.tgz","name":"minilibx_mms_20191025_beta.tgz"},{"link":"/uploads/document/document/3706/minilibx_macos_sierra_20161017.tgz","name":"minilibx_macos_sierra_20161017.tgz"},{"link":"/uploads/document/document/3707/sources.tgz","name":"sources.tgz"},{"link":"/uploads/document/document/3708/fdf","name":"fdf"}],"objectives":["Simple graphic library","Segment layout","Events","3D projection to 2D"],"skills":["Graphics","Imperative programming","Algorithms & AI","Rigor"],"stats":["Finished 0 times (0 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"filesystem","name":"filesystem","href":"https://projects.intra.42.fr/projects/42cursus-filesystem","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13280/en.subject.pdf","name":"subject.pdf"}],"objectives":["filesystem","kernel","Kernel and Low-Level"],"skills":["Rigor","Unix"],"stats":["Finished 3 times in 3 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"fix-me","name":"fix-me","href":"https://projects.intra.42.fr/projects/42cursus-fix-me","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/22437/en.subject.pdf","name":"subject.pdf"}],"objectives":["Java","Oriented-Object Programming","Networking","Sockets"],"skills":["Adaptation & creativity","Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 16 times (7 retries)","17 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"fract-ol","name":"fract-ol","href":"https://projects.intra.42.fr/projects/42cursus-fract-ol","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24132/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3702/minilibx_opengl.tgz","name":"minilibx_opengl.tgz"},{"link":"/uploads/document/document/3703/minilibx_mms_20200219_beta.tgz","name":"minilibx_mms_20200219_beta.tgz"}],"objectives":["2D programming","Optimization techniques","Some Maths"],"skills":["Graphics","Imperative programming"],"stats":["Finished 0 times (0 retries)","8 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"ft_ality","name":"ft_ality","href":"https://projects.intra.42.fr/projects/42cursus-ft_ality","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15952/en.subject.pdf","name":"subject.pdf"}],"objectives":["OCaml","Parsing","Functional","Algorithm implementation"],"skills":["Functional programming","Algorithms & AI","Rigor"],"stats":["Finished 11 times in 11 teams (0 retries)","2 students currently doing this project (0 retries) in 2 teams","0 teams waiting for evaluation"]},{"objectID":"ft_containers","name":"ft_containers","href":"https://projects.intra.42.fr/projects/ft_containers","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23658/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Rigor","Object-oriented programming"],"stats":["Finished 17 times (2 retries)","4 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"ft_hangouts","name":"ft_hangouts","href":"https://projects.intra.42.fr/projects/42cursus-ft_hangouts","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13208/en.subject.pdf","name":"subject.pdf"}],"objectives":["Android environment","JAVA","SQLite DB","Mobile","Applicative"],"skills":["DB & Data","Technology integration","Rigor","Object-oriented programming"],"stats":["Finished 139 times (6 retries)","59 students currently doing this project (0 retries)","4 teams waiting for evaluation"]},{"objectID":"ft_irc","name":"ft_irc","href":"https://projects.intra.42.fr/projects/ft_irc","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24431/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3808/bircd.tar.gz","name":"bircd.tar.gz"}],"objectives":["Network"],"skills":["Rigor","Unix","Object-oriented programming","Network & system administration"],"stats":["Finished 6 times in 3 teams (2 retries)","2 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"ft_linear_regression","name":"ft_linear_regression","href":"https://projects.intra.42.fr/projects/42cursus-ft_linear_regression","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13331/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2108/data.csv","name":"data.csv"}],"objectives":["Machine Learning","AI","Algorithms","Machine Learning"],"skills":["DB & Data","Algorithms & AI","Rigor"],"stats":["Finished 530 times (67 retries)","212 students currently doing this project (0 retries)","20 teams waiting for evaluation"]},{"objectID":"ft_linux","name":"ft_linux","href":"https://projects.intra.42.fr/projects/42cursus-ft_linux","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13374/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel","Kernel and Low-Level"],"skills":["Technology integration","Rigor","Unix"],"stats":["Finished 179 times (13 retries)","103 students currently doing this project (0 retries)","6 teams waiting for evaluation"]},{"objectID":"ft_ls","name":"ft_ls","href":"https://projects.intra.42.fr/projects/42cursus-ft_ls","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19628/en.subject.pdf","name":"subject.pdf"}],"objectives":["Tree of files and directories","Types and characteristics of files","Unix logic"],"skills":["Imperative programming","Algorithms & AI","Unix"],"stats":["Finished 1770 times in 1768 teams (41 retries)","40 students currently doing this project (0 retries) in 36 teams","4 teams waiting for evaluation"]},{"objectID":"ft_malcolm","name":"ft_malcolm","href":"https://projects.intra.42.fr/projects/ft_malcolm","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15289/en.subject.pdf","name":"subject.pdf"}],"objectives":["Security","Unix","Network & system administration"],"skills":[],"stats":["Finished 4 times (0 retries)","53 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"ft_newton","name":"ft_newton","href":"https://projects.intra.42.fr/projects/ft_newton","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/22536/en.subject.pdf","name":"subject.pdf"}],"objectives":["Game Engine dev"],"skills":["Technology integration","Algorithms & AI"],"stats":["Finished 0 times in 0 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"ft_nmap","name":"ft_nmap","href":"https://projects.intra.42.fr/projects/42cursus-ft_nmap","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20631/en.subject.pdf","name":"subject.pdf"}],"objectives":["TCP Protocol","Network Threading","PCAP lib","Network"],"skills":["Imperative programming","Unix","Network & system administration"],"stats":["Finished 40 times in 38 teams (1 retries)","3 students currently doing this project (0 retries) in 3 teams","0 teams waiting for evaluation"]},{"objectID":"ft_ping","name":"ft_ping","href":"https://projects.intra.42.fr/projects/42cursus-ft_ping","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13247/en.subject.pdf","name":"subject.pdf"}],"objectives":["Trame IP","ICMP Protocol","OSI Model","Network"],"skills":["Imperative programming","Unix","Network & system administration"],"stats":["Finished 144 times (15 retries)","138 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"ft_printf","name":"ft_printf","href":"https://projects.intra.42.fr/projects/42cursus-ft_printf","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23675/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Algorithms & AI","Rigor"],"stats":["Finished 512 times (236 retries)","50 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"ft_script","name":"ft_script","href":"https://projects.intra.42.fr/projects/42cursus-ft_script","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9796/en.subject.pdf","name":"subject.pdf"}],"objectives":["Pseudo terminals","Line discipline"],"skills":["Unix"],"stats":["Finished 192 times (6 retries)","26 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"ft_select","name":"ft_select","href":"https://projects.intra.42.fr/projects/42cursus-ft_select","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13303/en.subject.pdf","name":"subject.pdf"}],"objectives":["User interface via the terminal","Termcaps Library","Unix logic"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 781 times (17 retries)","22 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"ft_server","name":"ft_server","href":"https://projects.intra.42.fr/projects/ft_server","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23686/en.subject.pdf","name":"subject.pdf"}],"objectives":["System administration"],"skills":["Rigor","Network & system administration"],"stats":["Finished 281 times (43 retries)","17 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"ft_services","name":"ft_services","href":"https://projects.intra.42.fr/projects/ft_services","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23690/en.subject.pdf","name":"subject.pdf"}],"objectives":["System administration"],"skills":["Rigor","Network & system administration"],"stats":["Finished 75 times (16 retries)","31 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"ft_ssl_des","name":"ft_ssl_des","href":"https://projects.intra.42.fr/projects/42cursus-ft_ssl_des","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19604/en.subject.pdf","name":"subject.pdf"}],"objectives":["Security","Algorithm implementation"],"skills":["Security","Rigor","Unix","Network & system administration"],"stats":["Finished 103 times (11 retries)","19 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"ft_ssl_md5","name":"ft_ssl_md5","href":"https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19603/en.subject.pdf","name":"subject.pdf"}],"objectives":["Security","Algorithm implementation"],"skills":["Security","Algorithms & AI","Rigor","Unix"],"stats":["Finished 474 times (74 retries)","103 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"ft_ssl_rsa","name":"ft_ssl_rsa","href":"https://projects.intra.42.fr/projects/42cursus-ft_ssl_rsa","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19602/en.subject.pdf","name":"subject.pdf"}],"objectives":["Security","Algorithm implementation"],"skills":["Adaptation & creativity","Security","Algorithms & AI","Unix"],"stats":["Finished 27 times (3 retries)","2 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"ft_traceroute","name":"ft_traceroute","href":"https://projects.intra.42.fr/projects/42cursus-ft_traceroute","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13249/en.subject.pdf","name":"subject.pdf"}],"objectives":["IP","ICMP Protocol","OSI Model","Network"],"skills":["Imperative programming","Unix","Network & system administration"],"stats":["Finished 65 times (3 retries)","7 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"ft_turing","name":"ft_turing","href":"https://projects.intra.42.fr/projects/42cursus-ft_turing","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15543/en.subject.pdf","name":"subject.pdf"}],"objectives":["Functionnal Programming","Turing based theoric model","State machine","Complexity","Functional","Algorithm implementation"],"skills":["Functional programming","Imperative programming","Algorithms & AI","Rigor"],"stats":["Finished 14 times in 13 teams (2 retries)","5 students currently doing this project (0 retries) in 4 teams","0 teams waiting for evaluation"]},{"objectID":"ft_vox","name":"ft_vox","href":"https://projects.intra.42.fr/projects/42cursus-ft_vox","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15953/en.subject.pdf","name":"subject.pdf"}],"objectives":["Procedural Generation","Voxels","Cubes","3D World","Applicative","Algorithm implementation"],"skills":["Graphics","Algorithms & AI"],"stats":["Finished 57 times in 51 teams (5 retries)","7 students currently doing this project (0 retries) in 4 teams","0 teams waiting for evaluation"]},{"objectID":"gbmu","name":"gbmu","href":"https://projects.intra.42.fr/projects/42cursus-gbmu","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19201/en.subject.pdf","name":"subject.pdf"},{"link":"https://cdn.intra.42.fr/pdf/pdf/19202/gb-programming-manual.pdf","name":"gb-programming-manual.pdf"},{"link":"/uploads/document/document/2833/roms.zip","name":"roms.zip"},{"link":"/uploads/document/document/2834/demo.zip","name":"demo.zip"}],"objectives":["ASM","OOP","Unix logic"],"skills":["Graphics","Group & interpersonal","Unix","Object-oriented programming"],"stats":["Finished 108 times in 99 teams (4 retries)","19 students currently doing this project (0 retries) in 11 teams","0 teams waiting for evaluation"]},{"objectID":"get_next_line","name":"get_next_line","href":"https://projects.intra.42.fr/projects/42cursus-get_next_line","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20691/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Algorithms & AI","Rigor","Unix"],"stats":["Finished 531 times (215 retries)","33 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"gomoku","name":"gomoku","href":"https://projects.intra.42.fr/projects/42cursus-gomoku","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13352/en.subject.pdf","name":"subject.pdf"}],"objectives":["Min-max Trees","Tree-Sorting","Optimization","Algorithm implementation"],"skills":["Group & interpersonal","Algorithms & AI","Rigor"],"stats":["Finished 217 times in 204 teams (32 retries)","29 students currently doing this project (0 retries) in 20 teams","0 teams waiting for evaluation"]},{"objectID":"guimp","name":"guimp","href":"https://projects.intra.42.fr/projects/42cursus-guimp","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19203/en.subject.pdf","name":"subject.pdf"}],"objectives":["SDL 2","UI Library","Maths","Applicative"],"skills":["Adaptation & creativity","Graphics","Group & interpersonal","Imperative programming"],"stats":["Finished 115 times in 113 teams (9 retries)","13 students currently doing this project (0 retries) in 10 teams","1 teams waiting for evaluation"]},{"objectID":"h42n42","name":"h42n42","href":"https://projects.intra.42.fr/projects/42cursus-h42n42","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13187/en.subject.pdf","name":"subject.pdf"}],"objectives":["Functional programming","Framework Web","Functional","Company Experience"],"skills":["Functional programming","Web","Technology integration"],"stats":["Finished 2 times (0 retries)","14 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"humangl","name":"humangl","href":"https://projects.intra.42.fr/projects/42cursus-humangl","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9363/en.subject.pdf","name":"subject"}],"objectives":["OpenGL","Hierachic Model","Matrixs","Transformations"],"skills":["Graphics","Group & interpersonal","Algorithms & AI"],"stats":["Finished 36 times in 33 teams (2 retries)","6 students currently doing this project (0 retries) in 4 teams","1 teams waiting for evaluation"]},{"objectID":"hypertube","name":"hypertube","href":"https://projects.intra.42.fr/projects/42cursus-hypertube","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15621/en.subject.pdf","name":"subject.pdf"}],"objectives":["Framework MVC","Omniauth","Background jobs","Internationalisation","Fullstack","Framework","Network"],"skills":["DB & Data","Web","Group & interpersonal"],"stats":["Finished 185 times in 185 teams (7 retries)","10 students currently doing this project (0 retries) in 5 teams","0 teams waiting for evaluation"]},{"objectID":"Inception","name":"Inception","href":"https://projects.intra.42.fr/projects/inception","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23829/en.subject.pdf","name":"subject.pdf"}],"objectives":["System administration"],"skills":["Rigor","Network & system administration"],"stats":["Finished 3 times (0 retries)","14 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Internship I","name":"Internship I","href":"https://projects.intra.42.fr/projects/internship-i","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23626/en.subject.pdf","name":"subject.pdf"}],"objectives":["Company Integration","Adaptation","Relationnal","Production constraints","Company Experience"],"skills":["Company experience","Group & interpersonal"],"stats":["Finished 0 times (0 retries)","4 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Internship II","name":"Internship II","href":"https://projects.intra.42.fr/projects/internship-ii","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15949/en.subject.pdf","name":"subject.pdf"}],"objectives":["Company Integration","Adaptation","Relationnal","Production constraints","Company Experience"],"skills":["Company experience","Group & interpersonal"],"stats":["Finished 313 times (6 retries)","272 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"in-the-shadows","name":"in-the-shadows","href":"https://projects.intra.42.fr/projects/42cursus-in-the-shadows","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15973/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2499/in-the-shadows_resources.zip","name":"in-the-shadows_resources.zip"}],"objectives":["Game development","Basic Algorithms","Framework","Applicative"],"skills":["Adaptation & creativity","Graphics","Technology integration","Algorithms & AI"],"stats":["Finished 35 times (4 retries)","35 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"kfs-1","name":"kfs-1","href":"https://projects.intra.42.fr/projects/42cursus-kfs-1","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13286/en.subject.pdf","name":"subject.pdf"}],"objectives":["kernel","Kernel and Low-Level"],"skills":["Group & interpersonal","Rigor","Unix"],"stats":["Finished 35 times in 35 teams (2 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-2","name":"kfs-2","href":"https://projects.intra.42.fr/projects/42cursus-kfs-2","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13287/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel Programming","Kernel and Low-Level"],"skills":["Rigor","Unix"],"stats":["Finished 24 times in 24 teams (2 retries)","2 students currently doing this project (0 retries) in 2 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-3","name":"kfs-3","href":"https://projects.intra.42.fr/projects/42cursus-kfs-3","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13288/en.subject.pdf","name":"subject.pdf"}],"objectives":["kernel","Kernel and Low-Level"],"skills":["Group & interpersonal","Rigor","Unix"],"stats":["Finished 11 times in 11 teams (0 retries)","2 students currently doing this project (0 retries) in 2 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-4","name":"kfs-4","href":"https://projects.intra.42.fr/projects/42cursus-kfs-4","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13289/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel Development","Interrupts","Kernel and Low-Level"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 8 times in 8 teams (0 retries)","1 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-5","name":"kfs-5","href":"https://projects.intra.42.fr/projects/42cursus-kfs-5","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13290/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel","Process","Multitasking","Kernel and Low-Level"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 9 times in 9 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-6","name":"kfs-6","href":"https://projects.intra.42.fr/projects/42cursus-kfs-6","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13291/en.subject.pdf","name":"subject.pdf"}],"objectives":["Filesystem","Kernel","Kernel and Low-Level"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 7 times in 7 teams (0 retries)","1 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-7","name":"kfs-7","href":"https://projects.intra.42.fr/projects/42cursus-kfs-7","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9398/en.subject.pdf","name":"subject"}],"objectives":["Kernel","Syscalls","File Hierarchy"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 5 times in 5 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-8","name":"kfs-8","href":"https://projects.intra.42.fr/projects/42cursus-kfs-8","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13292/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel","Modules","Kernel and Low-Level"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 5 times in 5 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-9","name":"kfs-9","href":"https://projects.intra.42.fr/projects/42cursus-kfs-9","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13293/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel","Kernel and Low-Level"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 3 times in 3 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"kfs-x","name":"kfs-x","href":"https://projects.intra.42.fr/projects/42cursus-kfs-x","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/21136/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel","Kernel and Low-Level"],"skills":["Group & interpersonal","Unix"],"stats":["Finished 3 times in 3 teams (0 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"krpsim","name":"krpsim","href":"https://projects.intra.42.fr/projects/42cursus-krpsim","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13362/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2117/resources.tgz","name":"resources.tgz"}],"objectives":["Genetic algorithm","Simplex algorithm","Production Optimization","Algorithm implementation"],"skills":["Adaptation & creativity","Group & interpersonal","Algorithms & AI"],"stats":["Finished 74 times in 67 teams (7 retries)","8 students currently doing this project (0 retries) in 6 teams","0 teams waiting for evaluation"]},{"objectID":"lem_in","name":"lem_in","href":"https://projects.intra.42.fr/projects/42cursus-lem_in","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13343/en.subject.pdf","name":"subject.pdf"}],"objectives":["Graph course","Algorithms in depth","Algorithm implementation"],"skills":["Imperative programming","Algorithms & AI","Rigor"],"stats":["Finished 1704 times in 1701 teams (8 retries)","15 students currently doing this project (0 retries) in 11 teams","0 teams waiting for evaluation"]},{"objectID":"lem-ipc","name":"lem-ipc","href":"https://projects.intra.42.fr/projects/42cursus-lem-ipc","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13255/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2089/faq.fr.txt","name":"faq.fr.txt"}],"objectives":["Inter-process communication (IPC)","Shared memory (SHM)","Message Queue (MSGQ Sys V)","Semaphore","Network","Algorithm implementation"],"skills":["Rigor","Unix"],"stats":["Finished 119 times (4 retries)","20 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"libasm","name":"libasm","href":"https://projects.intra.42.fr/projects/libasm","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/10501/en.subject.pdf","name":"subject.pdf"}],"objectives":["Imperative programming","Rigor"],"skills":[],"stats":["Finished 152 times (26 retries)","25 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Libft","name":"Libft","href":"https://projects.intra.42.fr/projects/42cursus-libft","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20117/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Imperative programming","Algorithms & AI","Rigor"],"stats":["Finished 886 times (515 retries)","44 students currently doing this project (0 retries)","3 teams waiting for evaluation"]},{"objectID":"little-penguin-1","name":"little-penguin-1","href":"https://projects.intra.42.fr/projects/42cursus-little-penguin-1","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13285/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel","Kernel and Low-Level"],"skills":["Rigor","Unix"],"stats":["Finished 68 times (7 retries)","7 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"malloc","name":"malloc","href":"https://projects.intra.42.fr/projects/42cursus-malloc","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19626/en.subject.pdf","name":"subject.pdf"}],"objectives":["Mmap","Memory management algorithms","Munmap & free","Unix logic"],"skills":["Algorithms & AI","Unix"],"stats":["Finished 1010 times (91 retries)","124 students currently doing this project (0 retries)","8 teams waiting for evaluation"]},{"objectID":"matcha","name":"matcha","href":"https://projects.intra.42.fr/projects/42cursus-matcha","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/17245/en.subject.pdf","name":"subject.pdf"}],"objectives":["Micro-Framework","Advanced users accounts","Geolocalization","Security / data validation","Fullstack","Framework"],"skills":["Security","DB & Data","Web"],"stats":["Finished 259 times in 247 teams (24 retries)","41 students currently doing this project (0 retries) in 29 teams","0 teams waiting for evaluation"]},{"objectID":"matt-daemon","name":"matt-daemon","href":"https://projects.intra.42.fr/projects/42cursus-matt-daemon","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13309/en.subject.pdf","name":"subject.pdf"}],"objectives":["Daemon","Unix logic"],"skills":["Imperative programming","Unix","Network & system administration"],"stats":["Finished 125 times in 124 teams (4 retries)","3 students currently doing this project (0 retries) in 3 teams","3 teams waiting for evaluation"]},{"objectID":"miniRT","name":"miniRT","href":"https://projects.intra.42.fr/projects/minirt","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24179/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3728/minilibx_opengl.tgz","name":"minilibx_opengl.tgz"},{"link":"/uploads/document/document/3729/minilibx_mms_20200219_beta.tgz","name":"minilibx_mms_20200219_beta.tgz"}],"objectives":["Applicative"],"skills":["Graphics","Imperative programming","Algorithms & AI","Rigor"],"stats":["Finished 33 times in 33 teams (6 retries)","10 students currently doing this project (0 retries) in 10 teams","0 teams waiting for evaluation"]},{"objectID":"minishell","name":"minishell","href":"https://projects.intra.42.fr/projects/42cursus-minishell","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23693/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 141 times in 71 teams (70 retries)","39 students currently doing this project (0 retries) in 23 teams","2 teams waiting for evaluation"]},{"objectID":"minitalk","name":"minitalk","href":"https://projects.intra.42.fr/projects/minitalk","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24128/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Rigor","Unix"],"stats":["Finished 2 times (0 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"mod1","name":"mod1","href":"https://projects.intra.42.fr/projects/42cursus-mod1","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13361/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2116/resources.tgz","name":"resources.tgz"}],"objectives":["Bezier surfaces","Advanced algotithms","Fluid mechanics","Algorithm implementation"],"skills":["Adaptation & creativity","Graphics","Group & interpersonal","Algorithms & AI"],"stats":["Finished 247 times in 244 teams (10 retries)","13 students currently doing this project (0 retries) in 12 teams","0 teams waiting for evaluation"]},{"objectID":"multilayer-perceptron","name":"multilayer-perceptron","href":"https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13338/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2114/data.csv","name":"data.csv"}],"objectives":["Data Science","AI","Visualization","Neural Networks","Machine Learning"],"skills":["DB & Data","Algorithms & AI","Rigor"],"stats":["Finished 81 times (16 retries)","32 students currently doing this project (0 retries)","7 teams waiting for evaluation"]},{"objectID":"music-room","name":"music-room","href":"https://projects.intra.42.fr/projects/42cursus-music-room","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19613/en.subject.pdf","name":"subject.pdf"}],"objectives":["Mobile native development","Backend Web Development","API creation","Fullstack","Company Experience","Specs"],"skills":["Web","Technology integration","Security","Organization","DB & Data"],"stats":["Finished 73 times in 64 teams (16 retries)","25 students currently doing this project (0 retries) in 13 teams","1 teams waiting for evaluation"]},{"objectID":"netwhat","name":"netwhat","href":"https://projects.intra.42.fr/projects/netwhat","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23996/en.subject.pdf","name":"subject.pdf"}],"objectives":["Network"],"skills":["Network & system administration"],"stats":["Finished 625 times (298 retries)","15 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"nibbler","name":"nibbler","href":"https://projects.intra.42.fr/projects/42cursus-nibbler","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9354/en.subject.pdf","name":"subject"}],"objectives":["Dynamique librairies","Run-time loading","Name-mangling and key word 'extern' in C++"],"skills":["Adaptation & creativity","Graphics","Group & interpersonal","Object-oriented programming"],"stats":["Finished 166 times in 161 teams (7 retries)","7 students currently doing this project (0 retries) in 7 teams","1 teams waiting for evaluation"]},{"objectID":"nm-otool","name":"nm-otool","href":"https://projects.intra.42.fr/projects/42cursus-nm-otool","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13307/en.subject.pdf","name":"subject.pdf"}],"objectives":["Mach-O format","Sections","Dynamic libraries","Table of symbols","Unix logic"],"skills":["Rigor","Unix"],"stats":["Finished 590 times (33 retries)","108 students currently doing this project (0 retries)","3 teams waiting for evaluation"]},{"objectID":"n-puzzle","name":"n-puzzle","href":"https://projects.intra.42.fr/projects/42cursus-n-puzzle","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/17244/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2630/npuzzle-gen.py","name":"npuzzle-gen.py"}],"objectives":["A-star","Optimization","Algorithm implementation"],"skills":["Group & interpersonal","Algorithms & AI","Rigor"],"stats":["Finished 726 times in 654 teams (86 retries)","63 students currently doing this project (0 retries) in 49 teams","6 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 00","name":"Old-CPP Module 00","href":"https://projects.intra.42.fr/projects/old-cpp-module-00","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/18476/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2725/Account.class.hpp","name":"Account.class.hpp"},{"link":"/uploads/document/document/2726/19920104_091532.log","name":"19920104_091532.log"},{"link":"/uploads/document/document/2727/tests.cpp","name":"tests.cpp"}],"objectives":["Imperative programming","Object-oriented programming","Rigor","OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 86 times (23 retries)","50 students currently doing this project (0 retries)","5 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 01","name":"Old-CPP Module 01","href":"https://projects.intra.42.fr/projects/old-cpp-module-01","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/18480/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 46 times (8 retries)","8 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 02","name":"Old-CPP Module 02","href":"https://projects.intra.42.fr/projects/old-cpp-module-02","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/14462/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 37 times (1 retries)","1 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 03","name":"Old-CPP Module 03","href":"https://projects.intra.42.fr/projects/old-cpp-module-03","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/14464/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 40 times (6 retries)","1 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 04","name":"Old-CPP Module 04","href":"https://projects.intra.42.fr/projects/old-cpp-module-04","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/14467/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 31 times (4 retries)","5 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 05","name":"Old-CPP Module 05","href":"https://projects.intra.42.fr/projects/old-cpp-module-05","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15274/en.subject.pdf","name":"subject.pdf"}],"objectives":["OOP"],"skills":["Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 28 times (4 retries)","1 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 06","name":"Old-CPP Module 06","href":"https://projects.intra.42.fr/projects/old-cpp-module-06","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/12684/en.subject.pdf","name":"subject.pdf"}],"objectives":["Imperative programming","Rigor","Object-oriented programming"],"skills":[],"stats":["Finished 25 times (4 retries)","0 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 07","name":"Old-CPP Module 07","href":"https://projects.intra.42.fr/projects/old-cpp-module-07","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/12687/en.subject.pdf","name":"subject.pdf"}],"objectives":["Imperative programming","Rigor","Object-oriented programming"],"skills":[],"stats":["Finished 26 times (5 retries)","0 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Old-CPP Module 08","name":"Old-CPP Module 08","href":"https://projects.intra.42.fr/projects/old-cpp-module-08","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/12690/en.subject.pdf","name":"subject.pdf"}],"objectives":["Imperative programming","Rigor","Object-oriented programming"],"skills":[],"stats":["Finished 1060 times (7 retries)","1 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"Old-IRC","name":"Old-IRC","href":"https://projects.intra.42.fr/projects/old-irc","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24329/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3779/bircd.tar.gz","name":"bircd.tar.gz"}],"objectives":["Network"],"skills":["Rigor","Unix","Object-oriented programming","Network & system administration"],"stats":["Finished 2 times in 2 teams (1 retries)","21 students currently doing this project (0 retries) in 20 teams","1 teams waiting for evaluation"]},{"objectID":"Old-LibftASM","name":"Old-LibftASM","href":"https://projects.intra.42.fr/projects/old-libftasm","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13889/en.subject.pdf","name":"subject.pdf"}],"objectives":["Kernel and Low-Level"],"skills":["Imperative programming","Rigor"],"stats":["Finished 682 times (6 retries)","83 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"Old-Philosophers","name":"Old-Philosophers","href":"https://projects.intra.42.fr/projects/old-philosophers","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20350/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 260 times (3 retries)","9 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"Open Project","name":"Open Project","href":"https://projects.intra.42.fr/projects/open-project","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13354/en.subject.pdf","name":"subject.pdf"}],"objectives":["Etablissement d'un cahier des charges","Planification","Gestion des imprévus","Techniques d’organisation personnelle, de groupe, et de gestion de projet (GANTT, PERT, ...)","Specs"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 62 times in 53 teams (9 retries)","20 students currently doing this project (0 retries) in 10 teams","0 teams waiting for evaluation"]},{"objectID":"override","name":"override","href":"https://projects.intra.42.fr/projects/42cursus-override","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13281/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2096/OverRide.iso","name":"OverRide.iso"}],"objectives":["Binary Exploitation","Shellcode","ELF","Debugging","Assembly Code","Security"],"skills":["Adaptation & creativity","Security","Unix"],"stats":["Finished 325 times in 276 teams (8 retries)","14 students currently doing this project (0 retries) in 11 teams","3 teams waiting for evaluation"]},{"objectID":"particle-system","name":"particle-system","href":"https://projects.intra.42.fr/projects/42cursus-particle-system","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19214/en.subject.pdf","name":"subject.pdf"}],"objectives":["OpenGL","OpenCL","Algorithm implementation"],"skills":["Algorithms & AI","Technology integration","Parallel computing","Adaptation & creativity","Graphics"],"stats":["Finished 40 times (5 retries)","10 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"Part_Time I","name":"Part_Time I","href":"https://projects.intra.42.fr/projects/part_time-i","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13350/en.subject.pdf","name":"subject.pdf"}],"objectives":["Company Integration","Adaptation","Relationnal","Production constraints","Company Experience"],"skills":["Company experience","Group & interpersonal"],"stats":["Finished 49 times (0 retries)","40 students currently doing this project (0 retries)","3 teams waiting for evaluation"]},{"objectID":"Part_Time II","name":"Part_Time II","href":"https://projects.intra.42.fr/projects/part_time-ii","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/16057/en.subject.pdf","name":"subject.pdf"}],"objectives":["Company Integration","Adaptation","Relationnal","Production constraints","Company Experience"],"skills":["Company experience","Group & interpersonal"],"stats":["Finished 12 times (0 retries)","28 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"pestilence","name":"pestilence","href":"https://projects.intra.42.fr/projects/42cursus-pestilence","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13236/en.subject.pdf","name":"subject.pdf"}],"objectives":["Binary patches","x64 Architecture","Low-Level skills","Code Obfuscation","Processes","Oligomorphism","Security"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 25 times in 25 teams (0 retries)","1 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"Philosophers","name":"Philosophers","href":"https://projects.intra.42.fr/projects/42cursus-philosophers","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20687/en.subject.pdf","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 47 times (16 retries)","8 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"pipex","name":"pipex","href":"https://projects.intra.42.fr/projects/pipex","attachments":[{"link":"","name":"subject.pdf"}],"objectives":["Unix logic"],"skills":["Imperative programming","Unix"],"stats":["Finished 0 times (0 retries)","2 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Piscine OCaml","name":"Piscine OCaml","href":"https://projects.intra.42.fr/projects/42cursus-piscine-ocaml","attachments":[],"objectives":["Functional"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 267 times (0 retries)","0 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Piscine PHP Symfony","name":"Piscine PHP Symfony","href":"https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony","attachments":[],"objectives":["Backend","Framework"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 19 times (0 retries)","0 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Piscine Python Django","name":"Piscine Python Django","href":"https://projects.intra.42.fr/projects/42cursus-piscine-python-django","attachments":[],"objectives":["Backend","Framework"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 139 times (0 retries)","0 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Piscine Ruby on Rails","name":"Piscine Ruby on Rails","href":"https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails","attachments":[],"objectives":["Backend","Framework"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 75 times (0 retries)","0 students currently doing this project (0 retries)","2 teams waiting for evaluation"]},{"objectID":"Piscine Swift iOS","name":"Piscine Swift iOS","href":"https://projects.intra.42.fr/projects/42cursus-piscine-swift-ios","attachments":[],"objectives":["Fullstack","Mobile","Framework","Applicative"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 224 times (0 retries)","0 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"Piscine Unity","name":"Piscine Unity","href":"https://projects.intra.42.fr/projects/42cursus-piscine-unity","attachments":[],"objectives":["Framework","Applicative"],"skills":["Adaptation & creativity","Organization","Group & interpersonal"],"stats":["Finished 365 times (0 retries)","0 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"process-and-memory","name":"process-and-memory","href":"https://projects.intra.42.fr/projects/42cursus-process-and-memory","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13284/en.subject.pdf","name":"subject.pdf"}],"objectives":["syscall","memory management","kernel","Kernel and Low-Level"],"skills":["Technology integration","Rigor","Unix"],"stats":["Finished 13 times (2 retries)","1 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"push_swap","name":"push_swap","href":"https://projects.intra.42.fr/projects/42cursus-push_swap","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23505/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3517/checker_Mac","name":"checker_Mac"},{"link":"/uploads/document/document/3518/checker_linux","name":"checker_linux"}],"objectives":["Sorting algorithms","Battery concept and handling elements","Algorithm implementation"],"skills":["Imperative programming","Algorithms & AI","Rigor","Unix"],"stats":["Finished 52 times (18 retries)","88 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"rainfall","name":"rainfall","href":"https://projects.intra.42.fr/projects/42cursus-rainfall","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13243/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2087/RainFall.iso","name":"RainFall.iso"}],"objectives":["TCP/IP Protocol","OSI Layers","Client/server architecture","Security"],"skills":["Adaptation & creativity","Security","Unix"],"stats":["Finished 552 times in 457 teams (38 retries)","53 students currently doing this project (0 retries) in 40 teams","4 teams waiting for evaluation"]},{"objectID":"red-tetris","name":"red-tetris","href":"https://projects.intra.42.fr/projects/42cursus-red-tetris","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19615/en.subject.pdf","name":"subject.pdf"}],"objectives":["Fullstack","Network","Company Experience","Specs"],"skills":["Functional programming","Web","Technology integration","Object-oriented programming"],"stats":["Finished 130 times in 114 teams (34 retries)","31 students currently doing this project (0 retries) in 22 teams","0 teams waiting for evaluation"]},{"objectID":"rt","name":"rt","href":"https://projects.intra.42.fr/projects/42cursus-rt","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20775/en.subject.pdf","name":"subject.pdf"}],"objectives":["Anticipation and planning of options to realize","Geometry in space (normal, application of textures)","Group management"],"skills":["Adaptation & creativity","Graphics","Organization","Group & interpersonal"],"stats":["Finished 0 times in 0 teams (0 retries)","1 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"rubik","name":"rubik","href":"https://projects.intra.42.fr/projects/42cursus-rubik","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13358/en.subject.pdf","name":"subject.pdf"}],"objectives":["Algorithm","Space visualization","Groups Theory","Algorithm implementation"],"skills":["Group & interpersonal","Algorithms & AI","Rigor"],"stats":["Finished 118 times in 108 teams (5 retries)","39 students currently doing this project (0 retries) in 32 teams","0 teams waiting for evaluation"]},{"objectID":"scop","name":"scop","href":"https://projects.intra.42.fr/projects/42cursus-scop","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9612/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/1494/resources.tgz","name":"resources.tgz"}],"objectives":["OpenGL","Shaders","Matrixs","Texturing"],"skills":["Graphics","Rigor"],"stats":["Finished 318 times (33 retries)","105 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"shaderpixel","name":"shaderpixel","href":"https://projects.intra.42.fr/projects/42cursus-shaderpixel","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/15958/en.subject.pdf","name":"subject.pdf"}],"objectives":["Shader Programming","Advanced Rendering Techniques","Lightning and Shadows","OpenGL"],"skills":["Adaptation & creativity","Graphics"],"stats":["Finished 18 times in 18 teams (1 retries)","2 students currently doing this project (0 retries) in 2 teams","1 teams waiting for evaluation"]},{"objectID":"snow-crash","name":"snow-crash","href":"https://projects.intra.42.fr/projects/42cursus-snow-crash","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19197/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2831/SnowCrash.iso","name":"SnowCrash.iso"}],"objectives":["Perl/Python/Shell scripts","ASM","Security"],"skills":["Adaptation & creativity","Security","Unix"],"stats":["Finished 728 times in 625 teams (33 retries)","63 students currently doing this project (0 retries) in 53 teams","18 teams waiting for evaluation"]},{"objectID":"Startup Internship","name":"Startup Internship","href":"https://projects.intra.42.fr/projects/42cursus-startup-internship","attachments":[],"objectives":["Company experience"],"skills":[],"stats":["Finished 26 times (0 retries)","11 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"strace","name":"strace","href":"https://projects.intra.42.fr/projects/42cursus-strace","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/20026/en.subject.pdf","name":"subject.pdf"}],"objectives":["Ptrace","Interrupts","Kernel interface","Unix logic"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 99 times (9 retries)","35 students currently doing this project (0 retries)","1 teams waiting for evaluation"]},{"objectID":"swifty-companion","name":"swifty-companion","href":"https://projects.intra.42.fr/projects/42cursus-swifty-companion","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23559/en.subject.pdf","name":"subject.pdf"}],"objectives":["42 API","Mobile","Applicative"],"skills":["Adaptation & creativity","DB & Data","Technology integration","Object-oriented programming"],"stats":["Finished 53 times (3 retries)","54 students currently doing this project (0 retries)","3 teams waiting for evaluation"]},{"objectID":"swifty-proteins","name":"swifty-proteins","href":"https://projects.intra.42.fr/projects/42cursus-swifty-proteins","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/23566/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3531/ligands.txt","name":"ligands.txt"}],"objectives":["Mobile","Applicative"],"skills":["Adaptation & creativity","Graphics","Technology integration","Group & interpersonal"],"stats":["Finished 106 times in 105 teams (2 retries)","5 students currently doing this project (0 retries) in 4 teams","0 teams waiting for evaluation"]},{"objectID":"swingy","name":"swingy","href":"https://projects.intra.42.fr/projects/42cursus-swingy","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/9395/en.subject.pdf","name":"subject"}],"objectives":["Java","GUI","SWING Framework","Object-Oriented Programming"],"skills":["Adaptation & creativity","Imperative programming","Rigor","Object-oriented programming"],"stats":["Finished 72 times (13 retries)","33 students currently doing this project (0 retries)","4 teams waiting for evaluation"]},{"objectID":"taskmaster","name":"taskmaster","href":"https://projects.intra.42.fr/projects/42cursus-taskmaster","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13305/en.subject.pdf","name":"subject.pdf"}],"objectives":["Job control","Job monitoring","Unix logic"],"skills":["Algorithms & AI","Rigor","Unix"],"stats":["Finished 207 times in 194 teams (19 retries)","18 students currently doing this project (0 retries) in 14 teams","3 teams waiting for evaluation"]},{"objectID":"total-perspective-vortex","name":"total-perspective-vortex","href":"https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13336/en.subject.pdf","name":"subject.pdf"}],"objectives":["AI","Visualization","EEG data analysis","Machine learning","Machine Learning"],"skills":["Adaptation & creativity","DB & Data","Algorithms & AI"],"stats":["Finished 27 times (8 retries)","25 students currently doing this project (0 retries)","0 teams waiting for evaluation"]},{"objectID":"userspace_digressions","name":"userspace_digressions","href":"https://projects.intra.42.fr/projects/42cursus-userspace_digressions","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19503/en.subject.pdf","name":"subject.pdf"}],"objectives":["userspace","Kernel and Low-Level"],"skills":["Rigor","Unix"],"stats":["Finished 5 times in 5 teams (2 retries)","2 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"war","name":"war","href":"https://projects.intra.42.fr/projects/42cursus-war","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13232/en.subject.pdf","name":"subject.pdf"}],"objectives":["Binary patches","x64 Architecture","Low-Level skills","Polymorphism","Security"],"skills":["Imperative programming","Rigor","Unix"],"stats":["Finished 24 times in 23 teams (2 retries)","0 students currently doing this project (0 retries) in 0 teams","0 teams waiting for evaluation"]},{"objectID":"webserv","name":"webserv","href":"https://projects.intra.42.fr/projects/webserv","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/24430/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/3804/tester","name":"tester"},{"link":"/uploads/document/document/3805/ubuntu_cgi_tester","name":"ubuntu_cgi_tester"},{"link":"/uploads/document/document/3806/cgi_tester","name":"cgi_tester"},{"link":"/uploads/document/document/3807/ubuntu_tester","name":"ubuntu_tester"}],"objectives":["Network"],"skills":["Rigor","Unix","Object-oriented programming","Network & system administration"],"stats":["Finished 6 times in 3 teams (0 retries)","3 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"woody-woodpacker","name":"woody-woodpacker","href":"https://projects.intra.42.fr/projects/42cursus-woody-woodpacker","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13313/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2106/resources.tgz","name":"resources.tgz"}],"objectives":["encryption","Unix logic"],"skills":["Imperative programming","Algorithms & AI","Unix"],"stats":["Finished 159 times in 155 teams (8 retries)","20 students currently doing this project (0 retries) in 17 teams","3 teams waiting for evaluation"]},{"objectID":"xv","name":"xv","href":"https://projects.intra.42.fr/projects/42cursus-xv","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/19213/en.subject.pdf","name":"subject.pdf"},{"link":"/uploads/document/document/2839/XV_resources.zip","name":"XV_resources.zip"}],"objectives":["Professionnal immersion","Unity","Framework","Applicative","Company Experience","Specs"],"skills":["Adaptation & creativity","Graphics","Technology integration","Group & interpersonal"],"stats":["Finished 14 times in 13 teams (0 retries)","2 students currently doing this project (0 retries) in 1 teams","0 teams waiting for evaluation"]},{"objectID":"zappy","name":"zappy","href":"https://projects.intra.42.fr/projects/42cursus-zappy","attachments":[{"link":"https://cdn.intra.42.fr/pdf/pdf/13257/en.subject.pdf","name":"subject.pdf"},{"link":"https://cdn.intra.42.fr/pdf/pdf/13259/protocol-client-graphique-zappy.pdf","name":"protocol-client-graphique-zappy.pdf"}],"objectives":["TCP / IP protocol","Client / server architecture","Graphic interface","Group management","Network"],"skills":["Adaptation & creativity","Organization","Group & interpersonal","Unix"],"stats":["Finished 175 times in 175 teams (1 retries)","6 students currently doing this project (0 retries) in 5 teams","0 teams waiting for evaluation"]}]}
+{
+ "version": "v5.2.1",
+ "projects": [
+  {
+   "objectID": "ft_transcendence",
+   "name": "ft_transcendence",
+   "href": "https://projects.intra.42.fr/projects/ft_transcendence",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23535/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Specs"
+   ],
+   "skills": [
+    "Web",
+    "Group & interpersonal",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 34 times in 11 teams (3 retries)",
+    "30 students currently doing this project (0 retries) in 10 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "42run",
+   "name": "42run",
+   "href": "https://projects.intra.42.fr/projects/42cursus-42run",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9356/en.subject.pdf",
+     "name": "subject"
+    },
+    {
+     "link": "/uploads/document/document/1449/play_me.example",
+     "name": "1387 play_me 0"
+    },
+    {
+     "link": "/uploads/document/document/1450/resources.tgz",
+     "name": "1387 resources 0"
+    }
+   ],
+   "objectives": [
+    "OpenGL",
+    "GamePlay fonctionnel"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 30 times (0 retries)",
+    "3 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "42sh",
+   "name": "42sh",
+   "href": "https://projects.intra.42.fr/projects/42cursus-42sh",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19778/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Process handling",
+    "CLI handling",
+    "Advanced Parsing",
+    "Filesystem"
+   ],
+   "skills": [
+    "Organization",
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 663 times in 661 teams (0 retries)",
+    "2 students currently doing this project (0 retries) in 2 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "abstract-vm",
+   "name": "abstract-vm",
+   "href": "https://projects.intra.42.fr/projects/42cursus-abstract-vm",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9691/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "C++",
+    "Virtual machine",
+    "Manipulation of abstract data"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 432 times (28 retries)",
+    "56 students currently doing this project (0 retries)",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "avaj-launcher",
+   "name": "avaj-launcher",
+   "href": "https://projects.intra.42.fr/projects/42cursus-avaj-launcher",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/16891/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2600/avaj_uml.png",
+     "name": "avaj_uml.png"
+    },
+    {
+     "link": "/uploads/document/document/2601/scenario.txt",
+     "name": "scenario.txt"
+    }
+   ],
+   "objectives": [
+    "Java",
+    "UML",
+    "Object-Oriented Programming",
+    "Imperative Programming"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 257 times (23 retries)",
+    "105 students currently doing this project (0 retries)",
+    "5 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "bomberman",
+   "name": "bomberman",
+   "href": "https://projects.intra.42.fr/projects/42cursus-bomberman",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19616/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "C++",
+    "Rigueur et soucis de finition",
+    "Travail en equipe",
+    "OpenGL",
+    "Specs"
+   ],
+   "skills": [
+    "Graphics",
+    "Group & interpersonal",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 89 times in 86 teams (1 retries)",
+    "1 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "boot2root",
+   "name": "boot2root",
+   "href": "https://projects.intra.42.fr/projects/42cursus-boot2root",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19199/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2832/BornToSecHackMe-v1.1.iso",
+     "name": "BornToSecHackMe-v1.1.iso"
+    }
+   ],
+   "objectives": [
+    "Unix",
+    "Security",
+    "Permissions",
+    "Hacking Skills",
+    "Security"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Security",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 627 times in 522 teams (58 retries)",
+    "28 students currently doing this project (0 retries) in 20 teams",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Born2beroot",
+   "name": "Born2beroot",
+   "href": "https://projects.intra.42.fr/projects/born2beroot",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24264/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Rigor",
+    "Network & system administration"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 17 times (6 retries)",
+    "52 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "camagru",
+   "name": "camagru",
+   "href": "https://projects.intra.42.fr/projects/42cursus-camagru",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19609/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "User handling",
+    "permissions handling",
+    "mailing",
+    "security /data validation",
+    "Fullstack"
+   ],
+   "skills": [
+    "Security",
+    "DB & Data",
+    "Web"
+   ],
+   "stats": [
+    "Finished 355 times (23 retries)",
+    "39 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "cloud-1",
+   "name": "cloud-1",
+   "href": "https://projects.intra.42.fr/projects/42cursus-cloud-1",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/21425/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/21427/en.readme.pdf",
+     "name": "readme.pdf"
+    }
+   ],
+   "objectives": [
+    "Cloud",
+    "System administration"
+   ],
+   "skills": [
+    "DB & Data",
+    "Web",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 64 times in 59 teams (10 retries)",
+    "21 students currently doing this project (0 retries) in 14 teams",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "computorv1",
+   "name": "computorv1",
+   "href": "https://projects.intra.42.fr/projects/42cursus-computorv1",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13223/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Mathematics Basics",
+    "Polynomial Equations",
+    "Maths",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 1008 times (193 retries)",
+    "202 students currently doing this project (0 retries)",
+    "19 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "computorv2",
+   "name": "computorv2",
+   "href": "https://projects.intra.42.fr/projects/42cursus-computorv2",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13228/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Mathematical Basics",
+    "Polynomial equations",
+    "Imaginary number calculations",
+    "Matrix calculations",
+    "Mathematical functions",
+    "Maths",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Organization",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 100 times (23 retries)",
+    "30 students currently doing this project (0 retries)",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "corewar",
+   "name": "corewar",
+   "href": "https://projects.intra.42.fr/projects/42cursus-corewar",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19205/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19207/en.resources.pdf",
+     "name": "resources.pdf"
+    },
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19209/en.warning.pdf",
+     "name": "en.warning.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2835/vm_champs.tar",
+     "name": "vm_champs.tar"
+    },
+    {
+     "link": "/uploads/document/document/2836/op.c",
+     "name": "op.c"
+    },
+    {
+     "link": "/uploads/document/document/2837/op.h",
+     "name": "op.h"
+    }
+   ],
+   "objectives": [
+    "Compilation",
+    "Simplistic virtual machine",
+    "Simplistic assembly type language",
+    "Visual rendering"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 1615 times in 1613 teams (2 retries)",
+    "4 students currently doing this project (0 retries) in 4 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 00",
+   "name": "CPP Module 00",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-00",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23571/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3532/Account.class.hpp",
+     "name": "Account.class.hpp"
+    },
+    {
+     "link": "/uploads/document/document/3533/19920104_091532.log",
+     "name": "19920104_091532.log"
+    },
+    {
+     "link": "/uploads/document/document/3534/tests.cpp",
+     "name": "tests.cpp"
+    }
+   ],
+   "objectives": [
+    "Imperative programming",
+    "Object-oriented programming",
+    "Rigor",
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 52 times (17 retries)",
+    "7 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 01",
+   "name": "CPP Module 01",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-01",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/21918/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 42 times (8 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 02",
+   "name": "CPP Module 02",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-02",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/21913/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 34 times (0 retries)",
+    "1 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 03",
+   "name": "CPP Module 03",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-03",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/22422/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 39 times (8 retries)",
+    "3 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 04",
+   "name": "CPP Module 04",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-04",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23552/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 33 times (8 retries)",
+    "5 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 05",
+   "name": "CPP Module 05",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-05",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/22533/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 31 times (6 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 06",
+   "name": "CPP Module 06",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-06",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20184/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 27 times (2 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 07",
+   "name": "CPP Module 07",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-07",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23544/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 27 times (3 retries)",
+    "2 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "CPP Module 08",
+   "name": "CPP Module 08",
+   "href": "https://projects.intra.42.fr/projects/cpp-module-08",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23548/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 25 times (3 retries)",
+    "3 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "cub3d",
+   "name": "cub3d",
+   "href": "https://projects.intra.42.fr/projects/cub3d",
+   "attachments": [
+    {
+     "link": "",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3730/minilibx_opengl.tgz",
+     "name": "minilibx_opengl.tgz"
+    },
+    {
+     "link": "/uploads/document/document/3731/minilibx_mms_20200219_beta.tgz",
+     "name": "minilibx_mms_20200219_beta.tgz"
+    }
+   ],
+   "objectives": [
+    "Applicative"
+   ],
+   "skills": [
+    "Graphics",
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 270 times in 270 teams (109 retries)",
+    "45 students currently doing this project (0 retries) in 45 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "darkly",
+   "name": "darkly",
+   "href": "https://projects.intra.42.fr/projects/42cursus-darkly",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19001/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2808/Darkly_i386.iso",
+     "name": "Darkly_i386.iso"
+    }
+   ],
+   "objectives": [
+    "Failles de sécurité en web",
+    "OWASP",
+    "SQL/JS",
+    "Backend",
+    "Security"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Security",
+    "Web"
+   ],
+   "stats": [
+    "Finished 77 times in 67 teams (10 retries)",
+    "20 students currently doing this project (0 retries) in 16 teams",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "death",
+   "name": "death",
+   "href": "https://projects.intra.42.fr/projects/42cursus-death",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13230/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Binary patches",
+    "x64 Architecture",
+    "Low-Level skills",
+    "Metamorphism",
+    "Security"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 19 times in 17 teams (3 retries)",
+    "2 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "drivers-and-interrupts",
+   "name": "drivers-and-interrupts",
+   "href": "https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13283/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 17 times (3 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "dr-quine",
+   "name": "dr-quine",
+   "href": "https://projects.intra.42.fr/projects/42cursus-dr-quine",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15594/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "self-replication",
+    "Recursion",
+    "Security"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Algorithms & AI",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 119 times (24 retries)",
+    "23 students currently doing this project (0 retries)",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "dslr",
+   "name": "dslr",
+   "href": "https://projects.intra.42.fr/projects/42cursus-dslr",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19501/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2923/datasets.tgz",
+     "name": "datasets.tgz"
+    }
+   ],
+   "objectives": [
+    "Data Science",
+    "Statistics",
+    "Visualization",
+    "Logistic Regression",
+    "Machine Learning"
+   ],
+   "skills": [
+    "DB & Data",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 233 times in 208 teams (31 retries)",
+    "36 students currently doing this project (0 retries) in 32 teams",
+    "6 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "durex",
+   "name": "durex",
+   "href": "https://projects.intra.42.fr/projects/42cursus-durex",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13240/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Security",
+    "Daemon",
+    "Trojan",
+    "Network programming",
+    "Security"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Unix",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 64 times in 62 teams (3 retries)",
+    "8 students currently doing this project (0 retries) in 8 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Electronics-Old",
+   "name": "Electronics-Old",
+   "href": "https://projects.intra.42.fr/projects/electronics-old",
+   "attachments": [],
+   "objectives": [],
+   "skills": [],
+   "stats": [
+    "Finished 377 times in 375 teams (1 retries)",
+    "2 students currently doing this project (0 retries) in 2 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Exam Rank 02",
+   "name": "Exam Rank 02",
+   "href": "https://projects.intra.42.fr/projects/exam-rank-02",
+   "attachments": [],
+   "objectives": [],
+   "skills": [],
+   "stats": [
+    "Finished 7675 times",
+    "415 students currently doing this project",
+    "5 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Exam Rank 03",
+   "name": "Exam Rank 03",
+   "href": "https://projects.intra.42.fr/projects/exam-rank-03",
+   "attachments": [],
+   "objectives": [],
+   "skills": [],
+   "stats": [
+    "Finished 717 times",
+    "112 students currently doing this project",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Exam Rank 04",
+   "name": "Exam Rank 04",
+   "href": "https://projects.intra.42.fr/projects/exam-rank-04",
+   "attachments": [],
+   "objectives": [],
+   "skills": [],
+   "stats": [
+    "Finished 1079 times",
+    "164 students currently doing this project",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Exam Rank 05",
+   "name": "Exam Rank 05",
+   "href": "https://projects.intra.42.fr/projects/exam-rank-05",
+   "attachments": [],
+   "objectives": [],
+   "skills": [],
+   "stats": [
+    "Finished 786 times",
+    "85 students currently doing this project",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Exam Rank 06",
+   "name": "Exam Rank 06",
+   "href": "https://projects.intra.42.fr/projects/exam-rank-06",
+   "attachments": [],
+   "objectives": [],
+   "skills": [],
+   "stats": [
+    "Finished 221 times",
+    "50 students currently doing this project",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "expert-system",
+   "name": "expert-system",
+   "href": "https://projects.intra.42.fr/projects/42cursus-expert-system",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13349/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Graph algorithms",
+    "Optimization",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 549 times in 520 teams (47 retries)",
+    "24 students currently doing this project (0 retries) in 17 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "famine",
+   "name": "famine",
+   "href": "https://projects.intra.42.fr/projects/42cursus-famine",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13234/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Binary patches",
+    "x64 Architecture",
+    "Low-Level skills",
+    "Security"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 57 times in 54 teams (9 retries)",
+    "3 students currently doing this project (0 retries) in 3 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "FdF",
+   "name": "FdF",
+   "href": "https://projects.intra.42.fr/projects/42cursus-fdf",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24134/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3704/maps.zip",
+     "name": "maps.zip"
+    },
+    {
+     "link": "/uploads/document/document/3705/minilibx_mms_20191025_beta.tgz",
+     "name": "minilibx_mms_20191025_beta.tgz"
+    },
+    {
+     "link": "/uploads/document/document/3706/minilibx_macos_sierra_20161017.tgz",
+     "name": "minilibx_macos_sierra_20161017.tgz"
+    },
+    {
+     "link": "/uploads/document/document/3707/sources.tgz",
+     "name": "sources.tgz"
+    },
+    {
+     "link": "/uploads/document/document/3708/fdf",
+     "name": "fdf"
+    }
+   ],
+   "objectives": [
+    "Simple graphic library",
+    "Segment layout",
+    "Events",
+    "3D projection to 2D"
+   ],
+   "skills": [
+    "Graphics",
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 0 times (0 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "filesystem",
+   "name": "filesystem",
+   "href": "https://projects.intra.42.fr/projects/42cursus-filesystem",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13280/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "filesystem",
+    "kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 3 times in 3 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "fix-me",
+   "name": "fix-me",
+   "href": "https://projects.intra.42.fr/projects/42cursus-fix-me",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/22437/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Java",
+    "Oriented-Object Programming",
+    "Networking",
+    "Sockets"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 16 times (7 retries)",
+    "17 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "fract-ol",
+   "name": "fract-ol",
+   "href": "https://projects.intra.42.fr/projects/42cursus-fract-ol",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24132/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3702/minilibx_opengl.tgz",
+     "name": "minilibx_opengl.tgz"
+    },
+    {
+     "link": "/uploads/document/document/3703/minilibx_mms_20200219_beta.tgz",
+     "name": "minilibx_mms_20200219_beta.tgz"
+    }
+   ],
+   "objectives": [
+    "2D programming",
+    "Optimization techniques",
+    "Some Maths"
+   ],
+   "skills": [
+    "Graphics",
+    "Imperative programming"
+   ],
+   "stats": [
+    "Finished 0 times (0 retries)",
+    "8 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_ality",
+   "name": "ft_ality",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_ality",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15952/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OCaml",
+    "Parsing",
+    "Functional",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Functional programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 11 times in 11 teams (0 retries)",
+    "2 students currently doing this project (0 retries) in 2 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_containers",
+   "name": "ft_containers",
+   "href": "https://projects.intra.42.fr/projects/ft_containers",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23658/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 17 times (2 retries)",
+    "4 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_hangouts",
+   "name": "ft_hangouts",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_hangouts",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13208/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Android environment",
+    "JAVA",
+    "SQLite DB",
+    "Mobile",
+    "Applicative"
+   ],
+   "skills": [
+    "DB & Data",
+    "Technology integration",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 139 times (6 retries)",
+    "59 students currently doing this project (0 retries)",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_irc",
+   "name": "ft_irc",
+   "href": "https://projects.intra.42.fr/projects/ft_irc",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24431/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3808/bircd.tar.gz",
+     "name": "bircd.tar.gz"
+    }
+   ],
+   "objectives": [
+    "Network"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix",
+    "Object-oriented programming",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 6 times in 3 teams (2 retries)",
+    "2 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_linear_regression",
+   "name": "ft_linear_regression",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_linear_regression",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13331/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2108/data.csv",
+     "name": "data.csv"
+    }
+   ],
+   "objectives": [
+    "Machine Learning",
+    "AI",
+    "Algorithms",
+    "Machine Learning"
+   ],
+   "skills": [
+    "DB & Data",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 530 times (67 retries)",
+    "212 students currently doing this project (0 retries)",
+    "20 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_linux",
+   "name": "ft_linux",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_linux",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13374/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Technology integration",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 179 times (13 retries)",
+    "103 students currently doing this project (0 retries)",
+    "6 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_ls",
+   "name": "ft_ls",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_ls",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19628/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Tree of files and directories",
+    "Types and characteristics of files",
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Algorithms & AI",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 1770 times in 1768 teams (41 retries)",
+    "40 students currently doing this project (0 retries) in 36 teams",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_malcolm",
+   "name": "ft_malcolm",
+   "href": "https://projects.intra.42.fr/projects/ft_malcolm",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15289/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Security",
+    "Unix",
+    "Network & system administration"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 4 times (0 retries)",
+    "53 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_newton",
+   "name": "ft_newton",
+   "href": "https://projects.intra.42.fr/projects/ft_newton",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/22536/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Game Engine dev"
+   ],
+   "skills": [
+    "Technology integration",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 0 times in 0 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_nmap",
+   "name": "ft_nmap",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_nmap",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20631/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "TCP Protocol",
+    "Network Threading",
+    "PCAP lib",
+    "Network"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Unix",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 40 times in 38 teams (1 retries)",
+    "3 students currently doing this project (0 retries) in 3 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_ping",
+   "name": "ft_ping",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_ping",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13247/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Trame IP",
+    "ICMP Protocol",
+    "OSI Model",
+    "Network"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Unix",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 144 times (15 retries)",
+    "138 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_printf",
+   "name": "ft_printf",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_printf",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23675/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 512 times (236 retries)",
+    "50 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_script",
+   "name": "ft_script",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_script",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9796/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Pseudo terminals",
+    "Line discipline"
+   ],
+   "skills": [
+    "Unix"
+   ],
+   "stats": [
+    "Finished 192 times (6 retries)",
+    "26 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_select",
+   "name": "ft_select",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_select",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13303/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "User interface via the terminal",
+    "Termcaps Library",
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 781 times (17 retries)",
+    "22 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_server",
+   "name": "ft_server",
+   "href": "https://projects.intra.42.fr/projects/ft_server",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23686/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "System administration"
+   ],
+   "skills": [
+    "Rigor",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 281 times (43 retries)",
+    "17 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_services",
+   "name": "ft_services",
+   "href": "https://projects.intra.42.fr/projects/ft_services",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23690/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "System administration"
+   ],
+   "skills": [
+    "Rigor",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 75 times (16 retries)",
+    "31 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_ssl_des",
+   "name": "ft_ssl_des",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_ssl_des",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19604/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Security",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Security",
+    "Rigor",
+    "Unix",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 103 times (11 retries)",
+    "19 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_ssl_md5",
+   "name": "ft_ssl_md5",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19603/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Security",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Security",
+    "Algorithms & AI",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 474 times (74 retries)",
+    "103 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_ssl_rsa",
+   "name": "ft_ssl_rsa",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_ssl_rsa",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19602/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Security",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Security",
+    "Algorithms & AI",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 27 times (3 retries)",
+    "2 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_traceroute",
+   "name": "ft_traceroute",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_traceroute",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13249/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "IP",
+    "ICMP Protocol",
+    "OSI Model",
+    "Network"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Unix",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 65 times (3 retries)",
+    "7 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_turing",
+   "name": "ft_turing",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_turing",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15543/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Functionnal Programming",
+    "Turing based theoric model",
+    "State machine",
+    "Complexity",
+    "Functional",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Functional programming",
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 14 times in 13 teams (2 retries)",
+    "5 students currently doing this project (0 retries) in 4 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "ft_vox",
+   "name": "ft_vox",
+   "href": "https://projects.intra.42.fr/projects/42cursus-ft_vox",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15953/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Procedural Generation",
+    "Voxels",
+    "Cubes",
+    "3D World",
+    "Applicative",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Graphics",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 57 times in 51 teams (5 retries)",
+    "7 students currently doing this project (0 retries) in 4 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "gbmu",
+   "name": "gbmu",
+   "href": "https://projects.intra.42.fr/projects/42cursus-gbmu",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19201/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19202/gb-programming-manual.pdf",
+     "name": "gb-programming-manual.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2833/roms.zip",
+     "name": "roms.zip"
+    },
+    {
+     "link": "/uploads/document/document/2834/demo.zip",
+     "name": "demo.zip"
+    }
+   ],
+   "objectives": [
+    "ASM",
+    "OOP",
+    "Unix logic"
+   ],
+   "skills": [
+    "Graphics",
+    "Group & interpersonal",
+    "Unix",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 108 times in 99 teams (4 retries)",
+    "19 students currently doing this project (0 retries) in 11 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "get_next_line",
+   "name": "get_next_line",
+   "href": "https://projects.intra.42.fr/projects/42cursus-get_next_line",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20691/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Algorithms & AI",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 531 times (215 retries)",
+    "33 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "gomoku",
+   "name": "gomoku",
+   "href": "https://projects.intra.42.fr/projects/42cursus-gomoku",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13352/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Min-max Trees",
+    "Tree-Sorting",
+    "Optimization",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 217 times in 204 teams (32 retries)",
+    "29 students currently doing this project (0 retries) in 20 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "guimp",
+   "name": "guimp",
+   "href": "https://projects.intra.42.fr/projects/42cursus-guimp",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19203/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "SDL 2",
+    "UI Library",
+    "Maths",
+    "Applicative"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Group & interpersonal",
+    "Imperative programming"
+   ],
+   "stats": [
+    "Finished 115 times in 113 teams (9 retries)",
+    "13 students currently doing this project (0 retries) in 10 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "h42n42",
+   "name": "h42n42",
+   "href": "https://projects.intra.42.fr/projects/42cursus-h42n42",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13187/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Functional programming",
+    "Framework Web",
+    "Functional",
+    "Company Experience"
+   ],
+   "skills": [
+    "Functional programming",
+    "Web",
+    "Technology integration"
+   ],
+   "stats": [
+    "Finished 2 times (0 retries)",
+    "14 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "humangl",
+   "name": "humangl",
+   "href": "https://projects.intra.42.fr/projects/42cursus-humangl",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9363/en.subject.pdf",
+     "name": "subject"
+    }
+   ],
+   "objectives": [
+    "OpenGL",
+    "Hierachic Model",
+    "Matrixs",
+    "Transformations"
+   ],
+   "skills": [
+    "Graphics",
+    "Group & interpersonal",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 36 times in 33 teams (2 retries)",
+    "6 students currently doing this project (0 retries) in 4 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "hypertube",
+   "name": "hypertube",
+   "href": "https://projects.intra.42.fr/projects/42cursus-hypertube",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15621/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Framework MVC",
+    "Omniauth",
+    "Background jobs",
+    "Internationalisation",
+    "Fullstack",
+    "Framework",
+    "Network"
+   ],
+   "skills": [
+    "DB & Data",
+    "Web",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 185 times in 185 teams (7 retries)",
+    "10 students currently doing this project (0 retries) in 5 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Inception",
+   "name": "Inception",
+   "href": "https://projects.intra.42.fr/projects/inception",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23829/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "System administration"
+   ],
+   "skills": [
+    "Rigor",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 3 times (0 retries)",
+    "14 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Internship I",
+   "name": "Internship I",
+   "href": "https://projects.intra.42.fr/projects/internship-i",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23626/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Company Integration",
+    "Adaptation",
+    "Relationnal",
+    "Production constraints",
+    "Company Experience"
+   ],
+   "skills": [
+    "Company experience",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 0 times (0 retries)",
+    "4 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Internship II",
+   "name": "Internship II",
+   "href": "https://projects.intra.42.fr/projects/internship-ii",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15949/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Company Integration",
+    "Adaptation",
+    "Relationnal",
+    "Production constraints",
+    "Company Experience"
+   ],
+   "skills": [
+    "Company experience",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 313 times (6 retries)",
+    "272 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "in-the-shadows",
+   "name": "in-the-shadows",
+   "href": "https://projects.intra.42.fr/projects/42cursus-in-the-shadows",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15973/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2499/in-the-shadows_resources.zip",
+     "name": "in-the-shadows_resources.zip"
+    }
+   ],
+   "objectives": [
+    "Game development",
+    "Basic Algorithms",
+    "Framework",
+    "Applicative"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Technology integration",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 35 times (4 retries)",
+    "35 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-1",
+   "name": "kfs-1",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-1",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13286/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 35 times in 35 teams (2 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-2",
+   "name": "kfs-2",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-2",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13287/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel Programming",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 24 times in 24 teams (2 retries)",
+    "2 students currently doing this project (0 retries) in 2 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-3",
+   "name": "kfs-3",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-3",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13288/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 11 times in 11 teams (0 retries)",
+    "2 students currently doing this project (0 retries) in 2 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-4",
+   "name": "kfs-4",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-4",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13289/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel Development",
+    "Interrupts",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 8 times in 8 teams (0 retries)",
+    "1 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-5",
+   "name": "kfs-5",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-5",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13290/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Process",
+    "Multitasking",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 9 times in 9 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-6",
+   "name": "kfs-6",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-6",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13291/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Filesystem",
+    "Kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 7 times in 7 teams (0 retries)",
+    "1 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-7",
+   "name": "kfs-7",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-7",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9398/en.subject.pdf",
+     "name": "subject"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Syscalls",
+    "File Hierarchy"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 5 times in 5 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-8",
+   "name": "kfs-8",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-8",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13292/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Modules",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 5 times in 5 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-9",
+   "name": "kfs-9",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-9",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13293/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 3 times in 3 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "kfs-x",
+   "name": "kfs-x",
+   "href": "https://projects.intra.42.fr/projects/42cursus-kfs-x",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/21136/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 3 times in 3 teams (0 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "krpsim",
+   "name": "krpsim",
+   "href": "https://projects.intra.42.fr/projects/42cursus-krpsim",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13362/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2117/resources.tgz",
+     "name": "resources.tgz"
+    }
+   ],
+   "objectives": [
+    "Genetic algorithm",
+    "Simplex algorithm",
+    "Production Optimization",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Group & interpersonal",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 74 times in 67 teams (7 retries)",
+    "8 students currently doing this project (0 retries) in 6 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "lem_in",
+   "name": "lem_in",
+   "href": "https://projects.intra.42.fr/projects/42cursus-lem_in",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13343/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Graph course",
+    "Algorithms in depth",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 1704 times in 1701 teams (8 retries)",
+    "15 students currently doing this project (0 retries) in 11 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "lem-ipc",
+   "name": "lem-ipc",
+   "href": "https://projects.intra.42.fr/projects/42cursus-lem-ipc",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13255/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2089/faq.fr.txt",
+     "name": "faq.fr.txt"
+    }
+   ],
+   "objectives": [
+    "Inter-process communication (IPC)",
+    "Shared memory (SHM)",
+    "Message Queue (MSGQ Sys V)",
+    "Semaphore",
+    "Network",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 119 times (4 retries)",
+    "20 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "libasm",
+   "name": "libasm",
+   "href": "https://projects.intra.42.fr/projects/libasm",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/10501/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Imperative programming",
+    "Rigor"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 152 times (26 retries)",
+    "25 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Libft",
+   "name": "Libft",
+   "href": "https://projects.intra.42.fr/projects/42cursus-libft",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20117/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 886 times (515 retries)",
+    "44 students currently doing this project (0 retries)",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "little-penguin-1",
+   "name": "little-penguin-1",
+   "href": "https://projects.intra.42.fr/projects/42cursus-little-penguin-1",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13285/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 68 times (7 retries)",
+    "7 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "malloc",
+   "name": "malloc",
+   "href": "https://projects.intra.42.fr/projects/42cursus-malloc",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19626/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Mmap",
+    "Memory management algorithms",
+    "Munmap & free",
+    "Unix logic"
+   ],
+   "skills": [
+    "Algorithms & AI",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 1010 times (91 retries)",
+    "124 students currently doing this project (0 retries)",
+    "8 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "matcha",
+   "name": "matcha",
+   "href": "https://projects.intra.42.fr/projects/42cursus-matcha",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/17245/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Micro-Framework",
+    "Advanced users accounts",
+    "Geolocalization",
+    "Security / data validation",
+    "Fullstack",
+    "Framework"
+   ],
+   "skills": [
+    "Security",
+    "DB & Data",
+    "Web"
+   ],
+   "stats": [
+    "Finished 259 times in 247 teams (24 retries)",
+    "41 students currently doing this project (0 retries) in 29 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "matt-daemon",
+   "name": "matt-daemon",
+   "href": "https://projects.intra.42.fr/projects/42cursus-matt-daemon",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13309/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Daemon",
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Unix",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 125 times in 124 teams (4 retries)",
+    "3 students currently doing this project (0 retries) in 3 teams",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "miniRT",
+   "name": "miniRT",
+   "href": "https://projects.intra.42.fr/projects/minirt",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24179/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3728/minilibx_opengl.tgz",
+     "name": "minilibx_opengl.tgz"
+    },
+    {
+     "link": "/uploads/document/document/3729/minilibx_mms_20200219_beta.tgz",
+     "name": "minilibx_mms_20200219_beta.tgz"
+    }
+   ],
+   "objectives": [
+    "Applicative"
+   ],
+   "skills": [
+    "Graphics",
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 33 times in 33 teams (6 retries)",
+    "10 students currently doing this project (0 retries) in 10 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "minishell",
+   "name": "minishell",
+   "href": "https://projects.intra.42.fr/projects/42cursus-minishell",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23693/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 141 times in 71 teams (70 retries)",
+    "39 students currently doing this project (0 retries) in 23 teams",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "minitalk",
+   "name": "minitalk",
+   "href": "https://projects.intra.42.fr/projects/minitalk",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24128/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 2 times (0 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "mod1",
+   "name": "mod1",
+   "href": "https://projects.intra.42.fr/projects/42cursus-mod1",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13361/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2116/resources.tgz",
+     "name": "resources.tgz"
+    }
+   ],
+   "objectives": [
+    "Bezier surfaces",
+    "Advanced algotithms",
+    "Fluid mechanics",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Group & interpersonal",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 247 times in 244 teams (10 retries)",
+    "13 students currently doing this project (0 retries) in 12 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "multilayer-perceptron",
+   "name": "multilayer-perceptron",
+   "href": "https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13338/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2114/data.csv",
+     "name": "data.csv"
+    }
+   ],
+   "objectives": [
+    "Data Science",
+    "AI",
+    "Visualization",
+    "Neural Networks",
+    "Machine Learning"
+   ],
+   "skills": [
+    "DB & Data",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 81 times (16 retries)",
+    "32 students currently doing this project (0 retries)",
+    "7 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "music-room",
+   "name": "music-room",
+   "href": "https://projects.intra.42.fr/projects/42cursus-music-room",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19613/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Mobile native development",
+    "Backend Web Development",
+    "API creation",
+    "Fullstack",
+    "Company Experience",
+    "Specs"
+   ],
+   "skills": [
+    "Web",
+    "Technology integration",
+    "Security",
+    "Organization",
+    "DB & Data"
+   ],
+   "stats": [
+    "Finished 73 times in 64 teams (16 retries)",
+    "25 students currently doing this project (0 retries) in 13 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "netwhat",
+   "name": "netwhat",
+   "href": "https://projects.intra.42.fr/projects/netwhat",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23996/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Network"
+   ],
+   "skills": [
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 625 times (298 retries)",
+    "15 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "nibbler",
+   "name": "nibbler",
+   "href": "https://projects.intra.42.fr/projects/42cursus-nibbler",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9354/en.subject.pdf",
+     "name": "subject"
+    }
+   ],
+   "objectives": [
+    "Dynamique librairies",
+    "Run-time loading",
+    "Name-mangling and key word 'extern' in C++"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Group & interpersonal",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 166 times in 161 teams (7 retries)",
+    "7 students currently doing this project (0 retries) in 7 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "nm-otool",
+   "name": "nm-otool",
+   "href": "https://projects.intra.42.fr/projects/42cursus-nm-otool",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13307/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Mach-O format",
+    "Sections",
+    "Dynamic libraries",
+    "Table of symbols",
+    "Unix logic"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 590 times (33 retries)",
+    "108 students currently doing this project (0 retries)",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "n-puzzle",
+   "name": "n-puzzle",
+   "href": "https://projects.intra.42.fr/projects/42cursus-n-puzzle",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/17244/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2630/npuzzle-gen.py",
+     "name": "npuzzle-gen.py"
+    }
+   ],
+   "objectives": [
+    "A-star",
+    "Optimization",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 726 times in 654 teams (86 retries)",
+    "63 students currently doing this project (0 retries) in 49 teams",
+    "6 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 00",
+   "name": "Old-CPP Module 00",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-00",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/18476/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2725/Account.class.hpp",
+     "name": "Account.class.hpp"
+    },
+    {
+     "link": "/uploads/document/document/2726/19920104_091532.log",
+     "name": "19920104_091532.log"
+    },
+    {
+     "link": "/uploads/document/document/2727/tests.cpp",
+     "name": "tests.cpp"
+    }
+   ],
+   "objectives": [
+    "Imperative programming",
+    "Object-oriented programming",
+    "Rigor",
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 86 times (23 retries)",
+    "50 students currently doing this project (0 retries)",
+    "5 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 01",
+   "name": "Old-CPP Module 01",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-01",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/18480/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 46 times (8 retries)",
+    "8 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 02",
+   "name": "Old-CPP Module 02",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-02",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/14462/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 37 times (1 retries)",
+    "1 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 03",
+   "name": "Old-CPP Module 03",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-03",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/14464/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 40 times (6 retries)",
+    "1 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 04",
+   "name": "Old-CPP Module 04",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-04",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/14467/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 31 times (4 retries)",
+    "5 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 05",
+   "name": "Old-CPP Module 05",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-05",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15274/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OOP"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 28 times (4 retries)",
+    "1 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 06",
+   "name": "Old-CPP Module 06",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-06",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/12684/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 25 times (4 retries)",
+    "0 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 07",
+   "name": "Old-CPP Module 07",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-07",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/12687/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 26 times (5 retries)",
+    "0 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-CPP Module 08",
+   "name": "Old-CPP Module 08",
+   "href": "https://projects.intra.42.fr/projects/old-cpp-module-08",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/12690/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 1060 times (7 retries)",
+    "1 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-IRC",
+   "name": "Old-IRC",
+   "href": "https://projects.intra.42.fr/projects/old-irc",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24329/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3779/bircd.tar.gz",
+     "name": "bircd.tar.gz"
+    }
+   ],
+   "objectives": [
+    "Network"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix",
+    "Object-oriented programming",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 2 times in 2 teams (1 retries)",
+    "21 students currently doing this project (0 retries) in 20 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-LibftASM",
+   "name": "Old-LibftASM",
+   "href": "https://projects.intra.42.fr/projects/old-libftasm",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13889/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 682 times (6 retries)",
+    "84 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Old-Philosophers",
+   "name": "Old-Philosophers",
+   "href": "https://projects.intra.42.fr/projects/old-philosophers",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20350/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 260 times (3 retries)",
+    "9 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Open Project",
+   "name": "Open Project",
+   "href": "https://projects.intra.42.fr/projects/open-project",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13354/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Etablissement d'un cahier des charges",
+    "Planification",
+    "Gestion des imprévus",
+    "Techniques d’organisation personnelle, de groupe, et de gestion de projet (GANTT, PERT, ...)",
+    "Specs"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 62 times in 53 teams (9 retries)",
+    "20 students currently doing this project (0 retries) in 10 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "override",
+   "name": "override",
+   "href": "https://projects.intra.42.fr/projects/42cursus-override",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13281/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2096/OverRide.iso",
+     "name": "OverRide.iso"
+    }
+   ],
+   "objectives": [
+    "Binary Exploitation",
+    "Shellcode",
+    "ELF",
+    "Debugging",
+    "Assembly Code",
+    "Security"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Security",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 325 times in 276 teams (8 retries)",
+    "14 students currently doing this project (0 retries) in 11 teams",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "particle-system",
+   "name": "particle-system",
+   "href": "https://projects.intra.42.fr/projects/42cursus-particle-system",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19214/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "OpenGL",
+    "OpenCL",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Algorithms & AI",
+    "Technology integration",
+    "Parallel computing",
+    "Adaptation & creativity",
+    "Graphics"
+   ],
+   "stats": [
+    "Finished 40 times (5 retries)",
+    "10 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Part_Time I",
+   "name": "Part_Time I",
+   "href": "https://projects.intra.42.fr/projects/part_time-i",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13350/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Company Integration",
+    "Adaptation",
+    "Relationnal",
+    "Production constraints",
+    "Company Experience"
+   ],
+   "skills": [
+    "Company experience",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 49 times (0 retries)",
+    "40 students currently doing this project (0 retries)",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Part_Time II",
+   "name": "Part_Time II",
+   "href": "https://projects.intra.42.fr/projects/part_time-ii",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/16057/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Company Integration",
+    "Adaptation",
+    "Relationnal",
+    "Production constraints",
+    "Company Experience"
+   ],
+   "skills": [
+    "Company experience",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 12 times (0 retries)",
+    "28 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "pestilence",
+   "name": "pestilence",
+   "href": "https://projects.intra.42.fr/projects/42cursus-pestilence",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13236/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Binary patches",
+    "x64 Architecture",
+    "Low-Level skills",
+    "Code Obfuscation",
+    "Processes",
+    "Oligomorphism",
+    "Security"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 25 times in 25 teams (0 retries)",
+    "1 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Philosophers",
+   "name": "Philosophers",
+   "href": "https://projects.intra.42.fr/projects/42cursus-philosophers",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20687/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 47 times (16 retries)",
+    "8 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "pipex",
+   "name": "pipex",
+   "href": "https://projects.intra.42.fr/projects/pipex",
+   "attachments": [
+    {
+     "link": "",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 0 times (0 retries)",
+    "2 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Piscine OCaml",
+   "name": "Piscine OCaml",
+   "href": "https://projects.intra.42.fr/projects/42cursus-piscine-ocaml",
+   "attachments": [],
+   "objectives": [
+    "Functional"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 267 times (0 retries)",
+    "0 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Piscine PHP Symfony",
+   "name": "Piscine PHP Symfony",
+   "href": "https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony",
+   "attachments": [],
+   "objectives": [
+    "Backend",
+    "Framework"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 19 times (0 retries)",
+    "0 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Piscine Python Django",
+   "name": "Piscine Python Django",
+   "href": "https://projects.intra.42.fr/projects/42cursus-piscine-python-django",
+   "attachments": [],
+   "objectives": [
+    "Backend",
+    "Framework"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 139 times (0 retries)",
+    "0 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Piscine Ruby on Rails",
+   "name": "Piscine Ruby on Rails",
+   "href": "https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails",
+   "attachments": [],
+   "objectives": [
+    "Backend",
+    "Framework"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 75 times (0 retries)",
+    "0 students currently doing this project (0 retries)",
+    "2 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Piscine Swift iOS",
+   "name": "Piscine Swift iOS",
+   "href": "https://projects.intra.42.fr/projects/42cursus-piscine-swift-ios",
+   "attachments": [],
+   "objectives": [
+    "Fullstack",
+    "Mobile",
+    "Framework",
+    "Applicative"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 224 times (0 retries)",
+    "0 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Piscine Unity",
+   "name": "Piscine Unity",
+   "href": "https://projects.intra.42.fr/projects/42cursus-piscine-unity",
+   "attachments": [],
+   "objectives": [
+    "Framework",
+    "Applicative"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 365 times (0 retries)",
+    "0 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "process-and-memory",
+   "name": "process-and-memory",
+   "href": "https://projects.intra.42.fr/projects/42cursus-process-and-memory",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13284/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "syscall",
+    "memory management",
+    "kernel",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Technology integration",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 13 times (2 retries)",
+    "1 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "push_swap",
+   "name": "push_swap",
+   "href": "https://projects.intra.42.fr/projects/42cursus-push_swap",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23505/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3517/checker_Mac",
+     "name": "checker_Mac"
+    },
+    {
+     "link": "/uploads/document/document/3518/checker_linux",
+     "name": "checker_linux"
+    }
+   ],
+   "objectives": [
+    "Sorting algorithms",
+    "Battery concept and handling elements",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Algorithms & AI",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 52 times (18 retries)",
+    "88 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "rainfall",
+   "name": "rainfall",
+   "href": "https://projects.intra.42.fr/projects/42cursus-rainfall",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13243/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2087/RainFall.iso",
+     "name": "RainFall.iso"
+    }
+   ],
+   "objectives": [
+    "TCP/IP Protocol",
+    "OSI Layers",
+    "Client/server architecture",
+    "Security"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Security",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 552 times in 457 teams (38 retries)",
+    "53 students currently doing this project (0 retries) in 40 teams",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "red-tetris",
+   "name": "red-tetris",
+   "href": "https://projects.intra.42.fr/projects/42cursus-red-tetris",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19615/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Fullstack",
+    "Network",
+    "Company Experience",
+    "Specs"
+   ],
+   "skills": [
+    "Functional programming",
+    "Web",
+    "Technology integration",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 130 times in 114 teams (34 retries)",
+    "31 students currently doing this project (0 retries) in 22 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "rt",
+   "name": "rt",
+   "href": "https://projects.intra.42.fr/projects/42cursus-rt",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20775/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Anticipation and planning of options to realize",
+    "Geometry in space (normal, application of textures)",
+    "Group management"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Organization",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 0 times in 0 teams (0 retries)",
+    "1 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "rubik",
+   "name": "rubik",
+   "href": "https://projects.intra.42.fr/projects/42cursus-rubik",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13358/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Algorithm",
+    "Space visualization",
+    "Groups Theory",
+    "Algorithm implementation"
+   ],
+   "skills": [
+    "Group & interpersonal",
+    "Algorithms & AI",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 118 times in 108 teams (5 retries)",
+    "39 students currently doing this project (0 retries) in 32 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "scop",
+   "name": "scop",
+   "href": "https://projects.intra.42.fr/projects/42cursus-scop",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9612/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/1494/resources.tgz",
+     "name": "resources.tgz"
+    }
+   ],
+   "objectives": [
+    "OpenGL",
+    "Shaders",
+    "Matrixs",
+    "Texturing"
+   ],
+   "skills": [
+    "Graphics",
+    "Rigor"
+   ],
+   "stats": [
+    "Finished 318 times (33 retries)",
+    "105 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "shaderpixel",
+   "name": "shaderpixel",
+   "href": "https://projects.intra.42.fr/projects/42cursus-shaderpixel",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/15958/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Shader Programming",
+    "Advanced Rendering Techniques",
+    "Lightning and Shadows",
+    "OpenGL"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics"
+   ],
+   "stats": [
+    "Finished 18 times in 18 teams (1 retries)",
+    "2 students currently doing this project (0 retries) in 2 teams",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "snow-crash",
+   "name": "snow-crash",
+   "href": "https://projects.intra.42.fr/projects/42cursus-snow-crash",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19197/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2831/SnowCrash.iso",
+     "name": "SnowCrash.iso"
+    }
+   ],
+   "objectives": [
+    "Perl/Python/Shell scripts",
+    "ASM",
+    "Security"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Security",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 728 times in 625 teams (33 retries)",
+    "63 students currently doing this project (0 retries) in 53 teams",
+    "18 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "Startup Internship",
+   "name": "Startup Internship",
+   "href": "https://projects.intra.42.fr/projects/42cursus-startup-internship",
+   "attachments": [],
+   "objectives": [
+    "Company experience"
+   ],
+   "skills": [],
+   "stats": [
+    "Finished 26 times (0 retries)",
+    "11 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "strace",
+   "name": "strace",
+   "href": "https://projects.intra.42.fr/projects/42cursus-strace",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/20026/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Ptrace",
+    "Interrupts",
+    "Kernel interface",
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 99 times (9 retries)",
+    "35 students currently doing this project (0 retries)",
+    "1 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "swifty-companion",
+   "name": "swifty-companion",
+   "href": "https://projects.intra.42.fr/projects/42cursus-swifty-companion",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23559/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "42 API",
+    "Mobile",
+    "Applicative"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "DB & Data",
+    "Technology integration",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 53 times (3 retries)",
+    "54 students currently doing this project (0 retries)",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "swifty-proteins",
+   "name": "swifty-proteins",
+   "href": "https://projects.intra.42.fr/projects/42cursus-swifty-proteins",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/23566/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3531/ligands.txt",
+     "name": "ligands.txt"
+    }
+   ],
+   "objectives": [
+    "Mobile",
+    "Applicative"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Technology integration",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 106 times in 105 teams (2 retries)",
+    "5 students currently doing this project (0 retries) in 4 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "swingy",
+   "name": "swingy",
+   "href": "https://projects.intra.42.fr/projects/42cursus-swingy",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/9395/en.subject.pdf",
+     "name": "subject"
+    }
+   ],
+   "objectives": [
+    "Java",
+    "GUI",
+    "SWING Framework",
+    "Object-Oriented Programming"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Imperative programming",
+    "Rigor",
+    "Object-oriented programming"
+   ],
+   "stats": [
+    "Finished 72 times (13 retries)",
+    "33 students currently doing this project (0 retries)",
+    "4 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "taskmaster",
+   "name": "taskmaster",
+   "href": "https://projects.intra.42.fr/projects/42cursus-taskmaster",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13305/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Job control",
+    "Job monitoring",
+    "Unix logic"
+   ],
+   "skills": [
+    "Algorithms & AI",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 207 times in 194 teams (19 retries)",
+    "18 students currently doing this project (0 retries) in 14 teams",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "total-perspective-vortex",
+   "name": "total-perspective-vortex",
+   "href": "https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13336/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "AI",
+    "Visualization",
+    "EEG data analysis",
+    "Machine learning",
+    "Machine Learning"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "DB & Data",
+    "Algorithms & AI"
+   ],
+   "stats": [
+    "Finished 27 times (8 retries)",
+    "25 students currently doing this project (0 retries)",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "userspace_digressions",
+   "name": "userspace_digressions",
+   "href": "https://projects.intra.42.fr/projects/42cursus-userspace_digressions",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19503/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "userspace",
+    "Kernel and Low-Level"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 5 times in 5 teams (2 retries)",
+    "2 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "war",
+   "name": "war",
+   "href": "https://projects.intra.42.fr/projects/42cursus-war",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13232/en.subject.pdf",
+     "name": "subject.pdf"
+    }
+   ],
+   "objectives": [
+    "Binary patches",
+    "x64 Architecture",
+    "Low-Level skills",
+    "Polymorphism",
+    "Security"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Rigor",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 24 times in 23 teams (2 retries)",
+    "0 students currently doing this project (0 retries) in 0 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "webserv",
+   "name": "webserv",
+   "href": "https://projects.intra.42.fr/projects/webserv",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/24430/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/3804/tester",
+     "name": "tester"
+    },
+    {
+     "link": "/uploads/document/document/3805/ubuntu_cgi_tester",
+     "name": "ubuntu_cgi_tester"
+    },
+    {
+     "link": "/uploads/document/document/3806/cgi_tester",
+     "name": "cgi_tester"
+    },
+    {
+     "link": "/uploads/document/document/3807/ubuntu_tester",
+     "name": "ubuntu_tester"
+    }
+   ],
+   "objectives": [
+    "Network"
+   ],
+   "skills": [
+    "Rigor",
+    "Unix",
+    "Object-oriented programming",
+    "Network & system administration"
+   ],
+   "stats": [
+    "Finished 6 times in 3 teams (0 retries)",
+    "3 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "woody-woodpacker",
+   "name": "woody-woodpacker",
+   "href": "https://projects.intra.42.fr/projects/42cursus-woody-woodpacker",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13313/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2106/resources.tgz",
+     "name": "resources.tgz"
+    }
+   ],
+   "objectives": [
+    "encryption",
+    "Unix logic"
+   ],
+   "skills": [
+    "Imperative programming",
+    "Algorithms & AI",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 159 times in 155 teams (8 retries)",
+    "20 students currently doing this project (0 retries) in 17 teams",
+    "3 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "xv",
+   "name": "xv",
+   "href": "https://projects.intra.42.fr/projects/42cursus-xv",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/19213/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "/uploads/document/document/2839/XV_resources.zip",
+     "name": "XV_resources.zip"
+    }
+   ],
+   "objectives": [
+    "Professionnal immersion",
+    "Unity",
+    "Framework",
+    "Applicative",
+    "Company Experience",
+    "Specs"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Graphics",
+    "Technology integration",
+    "Group & interpersonal"
+   ],
+   "stats": [
+    "Finished 14 times in 13 teams (0 retries)",
+    "2 students currently doing this project (0 retries) in 1 teams",
+    "0 teams waiting for evaluation"
+   ]
+  },
+  {
+   "objectID": "zappy",
+   "name": "zappy",
+   "href": "https://projects.intra.42.fr/projects/42cursus-zappy",
+   "attachments": [
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13257/en.subject.pdf",
+     "name": "subject.pdf"
+    },
+    {
+     "link": "https://cdn.intra.42.fr/pdf/pdf/13259/protocol-client-graphique-zappy.pdf",
+     "name": "protocol-client-graphique-zappy.pdf"
+    }
+   ],
+   "objectives": [
+    "TCP / IP protocol",
+    "Client / server architecture",
+    "Graphic interface",
+    "Group management",
+    "Network"
+   ],
+   "skills": [
+    "Adaptation & creativity",
+    "Organization",
+    "Group & interpersonal",
+    "Unix"
+   ],
+   "stats": [
+    "Finished 175 times in 175 teams (1 retries)",
+    "6 students currently doing this project (0 retries) in 5 teams",
+    "0 teams waiting for evaluation"
+   ]
+  }
+ ]
+}

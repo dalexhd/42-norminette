@@ -1,5 +1,15 @@
 # Changelog
 
+## [v5.2.1](https://github.com/dalexhd/42-norminette/tree/v5.2.1) (2021-06-05)
+
+[Full Changelog](https://github.com/dalexhd/42-norminette/compare/v5.2.0...v5.2.1)
+
+:wrench: Updated Projects:
+
+- Exam Rank 02: https://projects.intra.42.fr/projects/exam-rank-02
+- Exam Rank 05: https://projects.intra.42.fr/projects/exam-rank-05
+- Old-LibftASM: https://projects.intra.42.fr/projects/old-libftasm
+
 ## [v5.2.0](https://github.com/dalexhd/42-norminette/tree/v5.2.0) (2021-06-05)
 
 [Full Changelog](https://github.com/dalexhd/42-norminette/compare/v5.1.0...v5.2.0)
