@@ -173,19 +173,20 @@ ${changelog}`;
 		await fs.writeFileSync(path.resolve(__dirname, '../CHANGELOG.md'), changelog);
 		await fs.writeFileSync('data/projects.json', JSON.stringify(data, undefined, 1));
 		// @ts-ignore
-		await exec('lerna version ' + data.version.substring(1) + ' --no-git-tag-version --no-push --yes');
+		//await exec('lerna version ' + data.version.substring(1) + ' --no-git-tag-version --no-push --yes');
 		// @ts-ignore
-		await exec('cd ../../ && yarn version --new-version ' + data.version.substring(1) + ' --no-git-tag-version');
+		await exec('cd ../ yarn version --new-version ' + data.version.substring(1) + ' --no-git-tag-version');
 		setTimeout(async() => {
 			await exec('git add --all');
 			// @ts-ignore
-			await exec('git commit -m "feat(projects): Update to version ' + data.version + '"');
+			await exec('git commit -m "feat(scrapper): Update to version ' + data.version + '"');
 			await exec('git push');
 			await exec('git tag ' + data.version);
 			await exec('git push --tags');
 			await fs.writeFileSync(path.resolve(__dirname, '../RELEASE-CHANGELOG.md'), changelogContent);
-			console.log('::set-output name=tag_released::true');
-			await exec('echo "app_version=' + data.version + '" >> $GITHUB_ENV');
+			console.log('::set-output name=tag_released::false');
+			//console.log('::set-output name=tag_released::true');
+			//await exec('echo "app_version=' + data.version + '" >> $GITHUB_ENV');
 		}, 1000);
 	} else {
 		console.log('::set-output name=tag_released::false');

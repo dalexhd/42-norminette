@@ -1,6 +1,9 @@
 {
   "packages": [
-    "packages/*"
+    "packages/extension/packages/*",
+    "packages/scrapper"
   ],
-  "version": "5.2.1"
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent"
 }

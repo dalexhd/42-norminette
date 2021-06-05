@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ master ]
+    branches: '**'
   pull_request:
     branches: [ master ]
 
@@ -51,14 +51,14 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Deploy extension
-      if: steps.load-projects.outputs.tag_released == 'true'
-      run: |
-        yarn add vsce --dev --ignore-workspace-root-check
-        yarn run compile
-        yarn run deploy
-      env:
-        VSCE_PAT: ${{ secrets.VSCE_PAT }}
+    # - name: Deploy extension
+    #   if: steps.load-projects.outputs.tag_released == 'true'
+    #   run: |
+    #     yarn add vsce --dev --ignore-workspace-root-check
+    #     yarn run compile
+    #     yarn run deploy
+    #   env:
+    #     VSCE_PAT: ${{ secrets.VSCE_PAT }}
 
 
 

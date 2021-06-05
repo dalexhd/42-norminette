@@ -8,10 +8,10 @@
 			"request": "launch",
 			"name": "Launch Client",
 			"runtimeExecutable": "${execPath}",
-			"args": ["--extensionDevelopmentPath=${workspaceRoot}" ],
+			"args": ["--extensionDevelopmentPath=${workspaceRoot}/packages/extension" ],
 			"stopOnEntry": false,
 			"sourceMaps": true,
-			"outFiles": ["${workspaceRoot}/packages/client/out/**/*.js"],
+			"outFiles": ["${workspaceRoot}/packages/extension/packages/client/out/**/*.js"],
 			"preLaunchTask": "npm: watch"
 		},
 		{
@@ -22,7 +22,7 @@
 			"protocol": "inspector",
 			"port": 6011,
 			"sourceMaps": true,
-			"outFiles": ["${workspaceRoot}/packages/server/out/**/*.js"]
+			"outFiles": ["${workspaceRoot}/packages/extension/packages/server/out/**/*.js"]
 		},
 		{
 			"type": "node",
@@ -32,7 +32,7 @@
 			"protocol": "inspector",
 			"port": 6012,
 			"sourceMaps": true,
-			"outFiles": ["${workspaceRoot}/packages/server/out/**/*.js"]
+			"outFiles": ["${workspaceRoot}/packages/extension/packages/server/out/**/*.js"]
 		}
 	]
 }
