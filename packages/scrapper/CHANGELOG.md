@@ -1,1 +1,159 @@
 # Changelog
+
+## [v5.2.0](https://github.com/dalexhd/42-norminette/tree/v5.2.0) (2021-06-05)
+
+[Full Changelog](https://github.com/dalexhd/42-norminette/compare/v5.1.0...v5.2.0)
+
+:rocket: New Projects:
+
+- ft_transcendence: https://projects.intra.42.fr/projects/ft_transcendence
+- 42run: https://projects.intra.42.fr/projects/42cursus-42run
+- 42sh: https://projects.intra.42.fr/projects/42cursus-42sh
+- abstract-vm: https://projects.intra.42.fr/projects/42cursus-abstract-vm
+- avaj-launcher: https://projects.intra.42.fr/projects/42cursus-avaj-launcher
+- bomberman: https://projects.intra.42.fr/projects/42cursus-bomberman
+- boot2root: https://projects.intra.42.fr/projects/42cursus-boot2root
+- Born2beroot: https://projects.intra.42.fr/projects/born2beroot
+- camagru: https://projects.intra.42.fr/projects/42cursus-camagru
+- cloud-1: https://projects.intra.42.fr/projects/42cursus-cloud-1
+- computorv1: https://projects.intra.42.fr/projects/42cursus-computorv1
+- computorv2: https://projects.intra.42.fr/projects/42cursus-computorv2
+- corewar: https://projects.intra.42.fr/projects/42cursus-corewar
+- CPP Module 00: https://projects.intra.42.fr/projects/cpp-module-00
+- CPP Module 01: https://projects.intra.42.fr/projects/cpp-module-01
+- CPP Module 02: https://projects.intra.42.fr/projects/cpp-module-02
+- CPP Module 03: https://projects.intra.42.fr/projects/cpp-module-03
+- CPP Module 04: https://projects.intra.42.fr/projects/cpp-module-04
+- CPP Module 05: https://projects.intra.42.fr/projects/cpp-module-05
+- CPP Module 06: https://projects.intra.42.fr/projects/cpp-module-06
+- CPP Module 07: https://projects.intra.42.fr/projects/cpp-module-07
+- CPP Module 08: https://projects.intra.42.fr/projects/cpp-module-08
+- cub3d: https://projects.intra.42.fr/projects/cub3d
+- darkly: https://projects.intra.42.fr/projects/42cursus-darkly
+- death: https://projects.intra.42.fr/projects/42cursus-death
+- drivers-and-interrupts: https://projects.intra.42.fr/projects/42cursus-drivers-and-interrupts
+- dr-quine: https://projects.intra.42.fr/projects/42cursus-dr-quine
+- dslr: https://projects.intra.42.fr/projects/42cursus-dslr
+- durex: https://projects.intra.42.fr/projects/42cursus-durex
+- Electronics-Old: https://projects.intra.42.fr/projects/electronics-old
+- Exam Rank 02: https://projects.intra.42.fr/projects/exam-rank-02
+- Exam Rank 03: https://projects.intra.42.fr/projects/exam-rank-03
+- Exam Rank 04: https://projects.intra.42.fr/projects/exam-rank-04
+- Exam Rank 05: https://projects.intra.42.fr/projects/exam-rank-05
+- Exam Rank 06: https://projects.intra.42.fr/projects/exam-rank-06
+- expert-system: https://projects.intra.42.fr/projects/42cursus-expert-system
+- famine: https://projects.intra.42.fr/projects/42cursus-famine
+- FdF: https://projects.intra.42.fr/projects/42cursus-fdf
+- filesystem: https://projects.intra.42.fr/projects/42cursus-filesystem
+- fix-me: https://projects.intra.42.fr/projects/42cursus-fix-me
+- fract-ol: https://projects.intra.42.fr/projects/42cursus-fract-ol
+- ft_ality: https://projects.intra.42.fr/projects/42cursus-ft_ality
+- ft_containers: https://projects.intra.42.fr/projects/ft_containers
+- ft_hangouts: https://projects.intra.42.fr/projects/42cursus-ft_hangouts
+- ft_irc: https://projects.intra.42.fr/projects/ft_irc
+- ft_linear_regression: https://projects.intra.42.fr/projects/42cursus-ft_linear_regression
+- ft_linux: https://projects.intra.42.fr/projects/42cursus-ft_linux
+- ft_ls: https://projects.intra.42.fr/projects/42cursus-ft_ls
+- ft_malcolm: https://projects.intra.42.fr/projects/ft_malcolm
+- ft_newton: https://projects.intra.42.fr/projects/ft_newton
+- ft_nmap: https://projects.intra.42.fr/projects/42cursus-ft_nmap
+- ft_ping: https://projects.intra.42.fr/projects/42cursus-ft_ping
+- ft_printf: https://projects.intra.42.fr/projects/42cursus-ft_printf
+- ft_script: https://projects.intra.42.fr/projects/42cursus-ft_script
+- ft_select: https://projects.intra.42.fr/projects/42cursus-ft_select
+- ft_server: https://projects.intra.42.fr/projects/ft_server
+- ft_services: https://projects.intra.42.fr/projects/ft_services
+- ft_ssl_des: https://projects.intra.42.fr/projects/42cursus-ft_ssl_des
+- ft_ssl_md5: https://projects.intra.42.fr/projects/42cursus-ft_ssl_md5
+- ft_ssl_rsa: https://projects.intra.42.fr/projects/42cursus-ft_ssl_rsa
+- ft_traceroute: https://projects.intra.42.fr/projects/42cursus-ft_traceroute
+- ft_turing: https://projects.intra.42.fr/projects/42cursus-ft_turing
+- ft_vox: https://projects.intra.42.fr/projects/42cursus-ft_vox
+- gbmu: https://projects.intra.42.fr/projects/42cursus-gbmu
+- get_next_line: https://projects.intra.42.fr/projects/42cursus-get_next_line
+- gomoku: https://projects.intra.42.fr/projects/42cursus-gomoku
+- guimp: https://projects.intra.42.fr/projects/42cursus-guimp
+- h42n42: https://projects.intra.42.fr/projects/42cursus-h42n42
+- humangl: https://projects.intra.42.fr/projects/42cursus-humangl
+- hypertube: https://projects.intra.42.fr/projects/42cursus-hypertube
+- Inception: https://projects.intra.42.fr/projects/inception
+- Internship I: https://projects.intra.42.fr/projects/internship-i
+- Internship II: https://projects.intra.42.fr/projects/internship-ii
+- in-the-shadows: https://projects.intra.42.fr/projects/42cursus-in-the-shadows
+- kfs-1: https://projects.intra.42.fr/projects/42cursus-kfs-1
+- kfs-2: https://projects.intra.42.fr/projects/42cursus-kfs-2
+- kfs-3: https://projects.intra.42.fr/projects/42cursus-kfs-3
+- kfs-4: https://projects.intra.42.fr/projects/42cursus-kfs-4
+- kfs-5: https://projects.intra.42.fr/projects/42cursus-kfs-5
+- kfs-6: https://projects.intra.42.fr/projects/42cursus-kfs-6
+- kfs-7: https://projects.intra.42.fr/projects/42cursus-kfs-7
+- kfs-8: https://projects.intra.42.fr/projects/42cursus-kfs-8
+- kfs-9: https://projects.intra.42.fr/projects/42cursus-kfs-9
+- kfs-x: https://projects.intra.42.fr/projects/42cursus-kfs-x
+- krpsim: https://projects.intra.42.fr/projects/42cursus-krpsim
+- lem_in: https://projects.intra.42.fr/projects/42cursus-lem_in
+- lem-ipc: https://projects.intra.42.fr/projects/42cursus-lem-ipc
+- libasm: https://projects.intra.42.fr/projects/libasm
+- Libft: https://projects.intra.42.fr/projects/42cursus-libft
+- little-penguin-1: https://projects.intra.42.fr/projects/42cursus-little-penguin-1
+- malloc: https://projects.intra.42.fr/projects/42cursus-malloc
+- matcha: https://projects.intra.42.fr/projects/42cursus-matcha
+- matt-daemon: https://projects.intra.42.fr/projects/42cursus-matt-daemon
+- miniRT: https://projects.intra.42.fr/projects/minirt
+- minishell: https://projects.intra.42.fr/projects/42cursus-minishell
+- minitalk: https://projects.intra.42.fr/projects/minitalk
+- mod1: https://projects.intra.42.fr/projects/42cursus-mod1
+- multilayer-perceptron: https://projects.intra.42.fr/projects/42cursus-multilayer-perceptron
+- music-room: https://projects.intra.42.fr/projects/42cursus-music-room
+- netwhat: https://projects.intra.42.fr/projects/netwhat
+- nibbler: https://projects.intra.42.fr/projects/42cursus-nibbler
+- nm-otool: https://projects.intra.42.fr/projects/42cursus-nm-otool
+- n-puzzle: https://projects.intra.42.fr/projects/42cursus-n-puzzle
+- Old-CPP Module 00: https://projects.intra.42.fr/projects/old-cpp-module-00
+- Old-CPP Module 01: https://projects.intra.42.fr/projects/old-cpp-module-01
+- Old-CPP Module 02: https://projects.intra.42.fr/projects/old-cpp-module-02
+- Old-CPP Module 03: https://projects.intra.42.fr/projects/old-cpp-module-03
+- Old-CPP Module 04: https://projects.intra.42.fr/projects/old-cpp-module-04
+- Old-CPP Module 05: https://projects.intra.42.fr/projects/old-cpp-module-05
+- Old-CPP Module 06: https://projects.intra.42.fr/projects/old-cpp-module-06
+- Old-CPP Module 07: https://projects.intra.42.fr/projects/old-cpp-module-07
+- Old-CPP Module 08: https://projects.intra.42.fr/projects/old-cpp-module-08
+- Old-IRC: https://projects.intra.42.fr/projects/old-irc
+- Old-LibftASM: https://projects.intra.42.fr/projects/old-libftasm
+- Old-Philosophers: https://projects.intra.42.fr/projects/old-philosophers
+- Open Project: https://projects.intra.42.fr/projects/open-project
+- override: https://projects.intra.42.fr/projects/42cursus-override
+- particle-system: https://projects.intra.42.fr/projects/42cursus-particle-system
+- Part_Time I: https://projects.intra.42.fr/projects/part_time-i
+- Part_Time II: https://projects.intra.42.fr/projects/part_time-ii
+- pestilence: https://projects.intra.42.fr/projects/42cursus-pestilence
+- Philosophers: https://projects.intra.42.fr/projects/42cursus-philosophers
+- pipex: https://projects.intra.42.fr/projects/pipex
+- Piscine OCaml: https://projects.intra.42.fr/projects/42cursus-piscine-ocaml
+- Piscine PHP Symfony: https://projects.intra.42.fr/projects/42cursus-piscine-php-symfony
+- Piscine Python Django: https://projects.intra.42.fr/projects/42cursus-piscine-python-django
+- Piscine Ruby on Rails: https://projects.intra.42.fr/projects/42cursus-piscine-ruby-on-rails
+- Piscine Swift iOS: https://projects.intra.42.fr/projects/42cursus-piscine-swift-ios
+- Piscine Unity: https://projects.intra.42.fr/projects/42cursus-piscine-unity
+- process-and-memory: https://projects.intra.42.fr/projects/42cursus-process-and-memory
+- push_swap: https://projects.intra.42.fr/projects/42cursus-push_swap
+- rainfall: https://projects.intra.42.fr/projects/42cursus-rainfall
+- red-tetris: https://projects.intra.42.fr/projects/42cursus-red-tetris
+- rt: https://projects.intra.42.fr/projects/42cursus-rt
+- rubik: https://projects.intra.42.fr/projects/42cursus-rubik
+- scop: https://projects.intra.42.fr/projects/42cursus-scop
+- shaderpixel: https://projects.intra.42.fr/projects/42cursus-shaderpixel
+- snow-crash: https://projects.intra.42.fr/projects/42cursus-snow-crash
+- Startup Internship: https://projects.intra.42.fr/projects/42cursus-startup-internship
+- strace: https://projects.intra.42.fr/projects/42cursus-strace
+- swifty-companion: https://projects.intra.42.fr/projects/42cursus-swifty-companion
+- swifty-proteins: https://projects.intra.42.fr/projects/42cursus-swifty-proteins
+- swingy: https://projects.intra.42.fr/projects/42cursus-swingy
+- taskmaster: https://projects.intra.42.fr/projects/42cursus-taskmaster
+- total-perspective-vortex: https://projects.intra.42.fr/projects/42cursus-total-perspective-vortex
+- userspace_digressions: https://projects.intra.42.fr/projects/42cursus-userspace_digressions
+- war: https://projects.intra.42.fr/projects/42cursus-war
+- webserv: https://projects.intra.42.fr/projects/webserv
+- woody-woodpacker: https://projects.intra.42.fr/projects/42cursus-woody-woodpacker
+- xv: https://projects.intra.42.fr/projects/42cursus-xv
+- zappy: https://projects.intra.42.fr/projects/42cursus-zappy
