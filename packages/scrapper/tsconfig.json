@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"target": "ES6",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"removeComments": true,
+		"noEmitOnError": true,
+		"baseUrl": "./",
+		"sourceMap": false,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"noUnusedLocals": true,
+		"strictNullChecks": true
+	},
+	"exclude": [
+		".vscode-test"
+	],
+	"typeRoots": ["node_modules/@types", "src/types"],
+	"include": [
+		"./src/**/*"
+	]
+  }

@@ -1,0 +1,64 @@
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+        check-latest: true
+    - run: yarn install
+    - name: setup git config
+      run: |
+        # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+
+    - name: Install necessary linux packages
+      run: |
+        sudo apt install -y libxext-dev libxrandr-dev libx11-dev libbsd-dev libssl-dev xvfb
+        export DISPLAY=:99.0
+        Xvfb -ac :99 -screen 0 4096x2304x16 > /dev/null 2>&1 &
+
+    - name: Load projects
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x16" yarn run scrape
+      id: load-projects
+      env:
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+        ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+        TERM: xterm
+        DISPLAY: :99.0
+
+    - name: Release changes
+      if: steps.load-projects.outputs.tag_released == 'true'
+      uses: softprops/action-gh-release@v1
+      with:
+        body_path: packages/scrapper/RELEASE-CHANGELOG.md
+        tag_name: ${{ env.app_version }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Deploy extension
+      if: steps.load-projects.outputs.tag_released == 'true'
+      run: |
+        yarn add vsce --dev --ignore-workspace-root-check
+        yarn run compile
+        yarn run deploy
+      env:
+        VSCE_PAT: ${{ secrets.VSCE_PAT }}
+
+
+

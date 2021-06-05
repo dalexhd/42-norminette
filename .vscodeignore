@@ -1,2 +1,7 @@
 .vscode
 docs
+.vscodeignore
+.github
+packages/scrapper
+**/*.ts
+**/tsconfig.json

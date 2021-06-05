@@ -1,0 +1,28 @@
+{
+  "name": "@42-norminette/scrapper",
+  "description": "A norminette checker",
+  "author": "aborboll (aborboll@student.42.fr)",
+  "license": "MIT",
+  "version": "5.1.0",
+  "publisher": "dalexhd",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "TS_NODE_FILES=true ts-node src/index.ts"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.9.1",
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.5",
+    "@types/lodash": "^4.14.170",
+    "@typescript-eslint/eslint-plugin": "^4.26.0",
+    "@typescript-eslint/parser": "^4.26.0",
+    "eslint": "^7.27.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}

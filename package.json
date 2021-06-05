@@ -91,8 +91,10 @@
 	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
-		"compile": "tsc -b",
-		"watch": "tsc -b -w"
+		"compile": "tsc --build tsconfig.json",
+		"watch": "tsc -b -w",
+		"scrape": "yarn --cwd ./packages/scrapper start",
+		"deploy": "vsce publish --yarn"
 	},
 	"devDependencies": {
 		"@types/mocha": "^8.0.3",
@@ -103,7 +105,6 @@
 		"lerna": "^3.22.1",
 		"mocha": "^8.1.1",
 		"typescript": "^4.0.2"
-
 	},
 	"extensionPack": [
 		"usernamehw.errorlens"
