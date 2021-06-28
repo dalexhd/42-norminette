@@ -164,6 +164,12 @@ documents.onDidChangeContent((change) => {
   validateTextDocument(change.document);
 });
 
+// The content of a text document has changed. This event is emitted
+// when the text document first opened or when its content has changed.
+documents.onDidSave((change) => {
+  validateTextDocument(change.document);
+});
+
 async function validateTextDocument(textDocument: TextDocument): Promise<void> {
   let problems = 0;
   let diagnostics: Diagnostic[] = [];
@@ -208,6 +214,8 @@ async function validateTextDocument(textDocument: TextDocument): Promise<void> {
         }
         if ((index === 0 && showErrors === "one") || showErrors === "all") {
           diagnostics.push(diagnostic);
+          console.log(index, showErrors);
+          
         }
       });
       // Send the computed diagnostics to VSCode.
